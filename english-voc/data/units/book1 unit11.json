@@ -1,0 +1,294 @@
+[
+  {
+    "unit": 11,
+    "word": "anymore",
+    "part_of_speech": "adv.",
+    "definition": "Anymore means any longer.",
+    "example": "Her old pants don’t fit her anymore.",
+    "arabic_translation": "بعد الآن / لم يعد",
+    "arabic_definition": "تعني التوقف عن فعل شيء ما أو عدم استمرار الحالة.",
+    "arabic_example": "سروالها القديم لم يعد يناسبها بعد الآن.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 11,
+    "word": "asleep",
+    "part_of_speech": "adj.",
+    "definition": "When a person is asleep, they are not awake.",
+    "example": "The baby has been asleep for hours.",
+    "arabic_translation": "نائم",
+    "arabic_definition": "عندما يكون الشخص نائماً، فهو ليس مستيقظاً.",
+    "arabic_example": "الطفل نائم منذ ساعات.",
+    "extra_meanings": [
+      {
+        "meaning": "خدر (تنميل في الأطراف)",
+        "example": "ساقي خدرت (نامت) من الجلوس طويلاً."
+      }
+    ]
+  },
+  {
+    "unit": 11,
+    "word": "berry",
+    "part_of_speech": "n.",
+    "definition": "A berry is a small round fruit that grows on certain plants and trees.",
+    "example": "The berry looked delicious.",
+    "arabic_translation": "توت",
+    "arabic_definition": "التوت هو فاكهة صغيرة مستديرة تنمو على نباتات وأشجار معينة.",
+    "arabic_example": "بدا التوت لذيذاً.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 11,
+    "word": "collect",
+    "part_of_speech": "v.",
+    "definition": "To collect things is to group them together all in one place.",
+    "example": "I collected shells when I was younger.",
+    "arabic_translation": "يجمع",
+    "arabic_definition": "جمع الأشياء هو وضعها معاً في مكان واحد.",
+    "arabic_example": "كنت أجمع الأصداف عندما كنت صغيراً.",
+    "extra_meanings": [
+      {
+        "meaning": "يحصل (مالاً أو ديناً)",
+        "example": "جاء ليحصل الإيجار."
+      },
+      {
+        "meaning": "يصطحب (شخصاً)",
+        "example": "سأقوم باصطحابك من المطار."
+      }
+    ]
+  },
+  {
+    "unit": 11,
+    "word": "compete",
+    "part_of_speech": "v.",
+    "definition": "To compete is to try to be better than someone.",
+    "example": "He will compete with very good athletes.",
+    "arabic_translation": "ينافس",
+    "arabic_definition": "المنافسة هي محاولة أن تكون أفضل من شخص آخر.",
+    "arabic_example": "سوف ينافس رياضيين جيدين جداً.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 11,
+    "word": "conversation",
+    "part_of_speech": "n.",
+    "definition": "A conversation is a talk between people.",
+    "example": "There were two conversations going on at once.",
+    "arabic_translation": "محادثة / حوار",
+    "arabic_definition": "المحادثة هي حديث بين الناس.",
+    "arabic_example": "كانت هناك محادثتان تجريان في وقت واحد.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 11,
+    "word": "creature",
+    "part_of_speech": "n.",
+    "definition": "A creature is any living thing.",
+    "example": "The creature we saw today was either a dolphin or a porpoise.",
+    "arabic_translation": "مخلوق / كائن حي",
+    "arabic_definition": "المخلوق هو أي كائن حي.",
+    "arabic_example": "المخلوق الذي رأيناه اليوم كان إما دلفيناً أو خنزيراً بحرياً.",
+    "extra_meanings": [
+      {
+        "meaning": "شخص (للشفقة أو الاحتقار)",
+        "example": "يا له من مخلوق بائس."
+      }
+    ]
+  },
+  {
+    "unit": 11,
+    "word": "decision",
+    "part_of_speech": "n.",
+    "definition": "A decision is a choice.",
+    "example": "He made the wrong decision.",
+    "arabic_translation": "قرار",
+    "arabic_definition": "القرار هو اختيار يتم اتخاذه.",
+    "arabic_example": "لقد اتخذ القرار الخاطئ.",
+    "extra_meanings": [
+      {
+        "meaning": "حزم / عزم",
+        "example": "تصرف بحزم في الأزمة."
+      }
+    ]
+  },
+  {
+    "unit": 11,
+    "word": "either",
+    "part_of_speech": "conj.",
+    "definition": "Either is used with “or” to say there are two or more possibilities.",
+    "example": "You can choose to be either white or black when you play chess.",
+    "arabic_translation": "إما",
+    "arabic_definition": "تستخدم مع \"أو\" للقول بأن هناك احتمالين أو أكثر.",
+    "arabic_example": "يمكنك اختيار أن تكون إما الأبيض أو الأسود عند لعب الشطرنج.",
+    "extra_meanings": [
+      {
+        "meaning": "أيضاً (في النفي)",
+        "example": "أنا لا أحب ذلك أيضاً."
+      },
+      {
+        "meaning": "كلا (الاثنين)",
+        "example": "هناك أشجار على كلا جانبي الطريق."
+      }
+    ]
+  },
+  {
+    "unit": 11,
+    "word": "forest",
+    "part_of_speech": "n.",
+    "definition": "A forest is a place with lots of trees and animals.",
+    "example": "I love to go walking in the forest.",
+    "arabic_translation": "غابة",
+    "arabic_definition": "الغابة هي مكان به الكثير من الأشجار والحيوانات.",
+    "arabic_example": "أحب الذهاب للمشي في الغابة.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 11,
+    "word": "ground",
+    "part_of_speech": "n.",
+    "definition": "The ground is the top part of the Earth that we walk on.",
+    "example": "The ground under our feet was dry and brown.",
+    "arabic_translation": "أرض / تربة",
+    "arabic_definition": "الأرض هي الجزء العلوي من اليابسة الذي نمشي عليه.",
+    "arabic_example": "كانت الأرض تحت أقدامنا جافة وبنية.",
+    "extra_meanings": [
+      {
+        "meaning": "سبب / مبرر",
+        "example": "ليس لديك أي سبب للشكوى."
+      },
+      {
+        "meaning": "يطحن (فعل ماضِ - Grind)",
+        "example": "القهوة مطحونة طازجة."
+      }
+    ]
+  },
+  {
+    "unit": 11,
+    "word": "introduce",
+    "part_of_speech": "v.",
+    "definition": "To introduce someone or something is to say who they are.",
+    "example": "I introduced myself to our newest co-worker today.",
+    "arabic_translation": "يُعرف بـ / يقدم",
+    "arabic_definition": "تقديم شخص أو شيء هو التعريف بهويته.",
+    "arabic_example": "عرفت بنفسي لزميلنا الجديد اليوم.",
+    "extra_meanings": [
+      {
+        "meaning": "يدخل / يدرج (شيئاً جديداً)",
+        "example": "أدخلت الشركة تكنولوجيا جديدة."
+      }
+    ]
+  },
+  {
+    "unit": 11,
+    "word": "marry",
+    "part_of_speech": "v.",
+    "definition": "To marry is to legally become husband and wife.",
+    "example": "Rose and Henry were married, and they lived happily.",
+    "arabic_translation": "يتزوج",
+    "arabic_definition": "الزواج هو أن يصبح شخصان زوجاً وزوجة قانونياً.",
+    "arabic_example": "تزوج روز وهنري، وعاشا بسعادة.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 11,
+    "word": "prepare",
+    "part_of_speech": "v.",
+    "definition": "To prepare is to get ready for something.",
+    "example": "I prepared my speech to the class.",
+    "arabic_translation": "يُعد / يجهز",
+    "arabic_definition": "الإعداد هو التجهيز لشيء ما.",
+    "arabic_example": "أعددت خطابي للصف.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 11,
+    "word": "sail",
+    "part_of_speech": "v.",
+    "definition": "To sail is to move a boat on the water.",
+    "example": "I love to sail my boat on the lake.",
+    "arabic_translation": "يبحر",
+    "arabic_definition": "الإبحار هو تحريك القارب على الماء.",
+    "arabic_example": "أحب أن أبحر بقاربي في البحيرة.",
+    "extra_meanings": [
+      {
+        "meaning": "شراع (اسم)",
+        "example": "رفعوا الشراع لزيادة السرعة."
+      }
+    ]
+  },
+  {
+    "unit": 11,
+    "word": "serious",
+    "part_of_speech": "adj.",
+    "definition": "When something is serious, it is bad or unsafe.",
+    "example": "The accident was very serious.",
+    "arabic_translation": "خطير / جسيم",
+    "arabic_definition": "عندما يكون الشيء خطيراً، فهو سيء أو غير آمن.",
+    "arabic_example": "كان الحادث خطيراً جداً.",
+    "extra_meanings": [
+      {
+        "meaning": "جاد (غير مازح)",
+        "example": "توقف عن الضحك وكن جاداً."
+      }
+    ]
+  },
+  {
+    "unit": 11,
+    "word": "spend",
+    "part_of_speech": "v.",
+    "definition": "To spend is to use time doing something or being somewhere.",
+    "example": "I like to spend my free time fishing.",
+    "arabic_translation": "يقضي (وقتاً)",
+    "arabic_definition": "قضاء الوقت هو استخدامه في فعل شيء ما أو التواجد في مكان ما.",
+    "arabic_example": "أحب قضاء وقت فراغي في صيد الأسماك.",
+    "extra_meanings": [
+      {
+        "meaning": "ينفق (مالاً)",
+        "example": "أنفق الكثير من المال على الملابس."
+      }
+    ]
+  },
+  {
+    "unit": 11,
+    "word": "strange",
+    "part_of_speech": "adj.",
+    "definition": "When something is strange, it is not normal.",
+    "example": "Joe had a strange look on his face after he saw what happened.",
+    "arabic_translation": "غريب",
+    "arabic_definition": "عندما يكون الشيء غريباً، فهو ليس طبيعياً أو معتاداً.",
+    "arabic_example": "بدا على وجه جو نظرة غريبة بعد أن رأى ما حدث.",
+    "extra_meanings": [
+      {
+        "meaning": "أجنبي (غير مألوف)",
+        "example": "أشعر أنني غريب في هذه المدينة."
+      }
+    ]
+  },
+  {
+    "unit": 11,
+    "word": "truth",
+    "part_of_speech": "n.",
+    "definition": "The truth is a fact or something that is right.",
+    "example": "He was telling the truth about seeing a large green snake.",
+    "arabic_translation": "حقيقة / صدق",
+    "arabic_definition": "الحقيقة هي واقعة أو شيء صحيح.",
+    "arabic_example": "كان يقول الحقيقة بشأن رؤية ثعبان أخضر كبير.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 11,
+    "word": "wake",
+    "part_of_speech": "v.",
+    "definition": "To wake is to not be sleeping anymore.",
+    "example": "He is always full of energy when he wakes in the morning.",
+    "arabic_translation": "يستيقظ / يصحو",
+    "arabic_definition": "الاستيقاظ هو التوقف عن النوم.",
+    "arabic_example": "هو دائماً مليء بالطاقة عندما يستيقظ في الصباح.",
+    "extra_meanings": [
+      {
+        "meaning": "يوقظ (شخصاً آخر)",
+        "example": "من فضلك أيقظني في الساعة السابعة."
+      }
+    ]
+  }
+]

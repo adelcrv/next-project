@@ -1,0 +1,342 @@
+[
+  {
+    "unit": 13,
+    "word": "blood",
+    "part_of_speech": "n.",
+    "definition": "Blood is the red liquid in your body.",
+    "example": "I cut my finger and got blood on my shirt.",
+    "arabic_translation": "دم",
+    "arabic_definition": "الدم هو السائل الأحمر الموجود في جسمك.",
+    "arabic_example": "جرحت إصبعي وسال الدم على قميصي.",
+    "extra_meanings": [
+      {
+        "meaning": "نسل / سلالة",
+        "example": "هم من دماء نبيلة."
+      }
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "burn",
+    "part_of_speech": "v.",
+    "definition": "To burn something is to set it on fire.",
+    "example": "I burned some wood in the camp fire.",
+    "arabic_translation": "يحرق / يشعل",
+    "arabic_definition": "حرق شيء ما هو إشعال النار فيه.",
+    "arabic_example": "أحرقت بعض الخشب في نار المخيم.",
+    "extra_meanings": [
+      {
+        "meaning": "يلسع / يحترق (من الشمس)",
+        "example": "الشمس تحرق بشرتي."
+      },
+      {
+        "meaning": "يحترق (الطعام)",
+        "example": "احترق الكعك في الفرن."
+      }
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "cell",
+    "part_of_speech": "n.",
+    "definition": "A cell is a small room where a person is locked in.",
+    "example": "The jail cell was very small.",
+    "arabic_translation": "زنزانة",
+    "arabic_definition": "الزنزانة هي غرفة صغيرة يُحبس فيها الشخص.",
+    "arabic_example": "كانت زنزانة السجن صغيرة جداً.",
+    "extra_meanings": [
+      {
+        "meaning": "خلية (حية)",
+        "example": "خلايا الدم الحمراء تنقل الأكسجين."
+      },
+      {
+        "meaning": "خلية (نحل)",
+        "example": "يضع النحل العسل في الخلية."
+      }
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "contain",
+    "part_of_speech": "v.",
+    "definition": "To contain something is to have it inside.",
+    "example": "The mailbox contained a letter.",
+    "arabic_translation": "يحتوي على / يضم",
+    "arabic_definition": "احتواء شيء ما يعني وجوده في الداخل.",
+    "arabic_example": "احتوى صندوق البريد على رسالة.",
+    "extra_meanings": [
+      {
+        "meaning": "يكبح / يسيطر على (مشاعر أو وباء)",
+        "example": "حاول أن يكبح غضبه."
+      }
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "correct",
+    "part_of_speech": "adj.",
+    "definition": "To be correct is to be right.",
+    "example": "All of my answers on the test were correct.",
+    "arabic_translation": "صحيح / صائب",
+    "arabic_definition": "أن تكون صحيحاً يعني أن تكون على حق.",
+    "arabic_example": "كانت جميع إجاباتي في الاختبار صحيحة.",
+    "extra_meanings": [
+      {
+        "meaning": "يصحح (فعل)",
+        "example": "قام المعلم بتصحيح الأوراق."
+      }
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "crop",
+    "part_of_speech": "n.",
+    "definition": "A crop is food that a farmer grows.",
+    "example": "Wheat is a crop that is made into bread.",
+    "arabic_translation": "محصول",
+    "arabic_definition": "المحصول هو الطعام الذي يزرعه المزارع.",
+    "arabic_example": "القمح محصول يُصنع منه الخبز.",
+    "extra_meanings": [
+      {
+        "meaning": "يقص (صورة)",
+        "example": "قمت بقص الصورة لإزالة الخلفية."
+      }
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "demand",
+    "part_of_speech": "v.",
+    "definition": "To demand something is to say strongly that you want it.",
+    "example": "The workers demanded to be paid more money.",
+    "arabic_translation": "يطالب بـ",
+    "arabic_definition": "المطالبة بشيء ما هي القول بقوة أنك تريده.",
+    "arabic_example": "طالب العمال بدفع المزيد من المال لهم.",
+    "extra_meanings": [
+      {
+        "meaning": "طلب (اسم - اقتصادي)",
+        "example": "هناك طلب كبير على السيارات الكهربائية."
+      }
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "equal",
+    "part_of_speech": "adj.",
+    "definition": "To be equal is to be the same.",
+    "example": "Both students are equal in age.",
+    "arabic_translation": "متساوٍ / متعادل",
+    "arabic_definition": "أن تكون مساوياً يعني أن تكون نفس الشيء.",
+    "arabic_example": "كلا الطالبين متساويان في العمر.",
+    "extra_meanings": [
+      {
+        "meaning": "يساوي (فعل)",
+        "example": "اثنان زائد اثنان يساوي أربعة."
+      }
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "feed",
+    "part_of_speech": "v.",
+    "definition": "To feed is to give food.",
+    "example": "Mother feeds my baby brother everyday.",
+    "arabic_translation": "يُطعم / يغذي",
+    "arabic_definition": "الإطعام هو تقديم الطعام.",
+    "arabic_example": "تطعم أمي أخي الرضيع كل يوم.",
+    "extra_meanings": [
+      {
+        "meaning": "علف (اسم)",
+        "example": "اشترى المزارع علفاً للحيوانات."
+      }
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "hole",
+    "part_of_speech": "n.",
+    "definition": "A hole is an opening in something.",
+    "example": "The man was going to jump into the hole in the ice.",
+    "arabic_translation": "حفرة / ثقب",
+    "arabic_definition": "الحفرة هي فتحة في شيء ما.",
+    "arabic_example": "كان الرجل يقفز داخل الحفرة الموجودة في الجليد.",
+    "extra_meanings": [
+      {
+        "meaning": "جحر",
+        "example": "اختبأ الأرنب في جحره."
+      }
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "increase",
+    "part_of_speech": "v.",
+    "definition": "To increase something is to make it larger or more.",
+    "example": "They’ve increased the price of gas by 15 cents!",
+    "arabic_translation": "يزيد / يرفع",
+    "arabic_definition": "زيادة شيء ما هي جعله أكبر أو أكثر.",
+    "arabic_example": "لقد زادوا سعر البنزين بمقدار 15 سنتاً!",
+    "extra_meanings": [
+      {
+        "meaning": "زيادة (اسم)",
+        "example": "هناك زيادة في عدد السكان."
+      }
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "lord",
+    "part_of_speech": "n.",
+    "definition": "Long ago, a lord was a man in charge of a town.",
+    "example": "The lord of the town was not kind.",
+    "arabic_translation": "لورد / سيد (حاكم إقطاعي)",
+    "arabic_definition": "منذ زمن طويل، اللورد كان رجلاً مسؤولاً عن بلدة.",
+    "arabic_example": "لم يكن لورد البلدة طيباً.",
+    "extra_meanings": [
+      {
+        "meaning": "رب (في السياق الديني)",
+        "example": "اللهم يا رب العالمين."
+      }
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "owe",
+    "part_of_speech": "v.",
+    "definition": "To owe is to have to pay or give back something received from another.",
+    "example": "I owed him twenty dollars, so I paid him back.",
+    "arabic_translation": "يدين بـ",
+    "arabic_definition": "أن تدين يعني أن يتوجب عليك دفع أو إعادة شيء استلمته من شخص آخر.",
+    "arabic_example": "كنت مديناً له بعشرين دولاراً، لذا قمت بسدادها له.",
+    "extra_meanings": [
+      {
+        "meaning": "يدين بالفضل",
+        "example": "أدين بنجاحي لوالدي."
+      }
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "position",
+    "part_of_speech": "n.",
+    "definition": "A position is the way something is placed.",
+    "example": "How can you sit in that position?",
+    "arabic_translation": "وضعية / موضع",
+    "arabic_definition": "الوضعية هي الطريقة التي يوضع بها الشيء.",
+    "arabic_example": "كيف يمكنك الجلوس بتلك الوضعية؟",
+    "extra_meanings": [
+      {
+        "meaning": "منصب (وظيفي)",
+        "example": "حصل على منصب عالٍ في الشركة."
+      },
+      {
+        "meaning": "موقف (رأي)",
+        "example": "ما هو موقفك من هذه القضية؟"
+      }
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "raise",
+    "part_of_speech": "v.",
+    "definition": "To raise something is to lift it up.",
+    "example": "We had to work together to raise the last piece.",
+    "arabic_translation": "يرفع",
+    "arabic_definition": "رفع شيء ما هو حمله للأعلى.",
+    "arabic_example": "اضطررنا للعمل معاً لرفع القطعة الأخيرة.",
+    "extra_meanings": [
+      {
+        "meaning": "يربي (أطفالاً أو حيوانات)",
+        "example": "قامت بتربية أطفالها بمفردها."
+      },
+      {
+        "meaning": "يجمع (تبرعات)",
+        "example": "نحاول جمع المال للجمعية الخيرية."
+      }
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "responsible",
+    "part_of_speech": "adj.",
+    "definition": "If a person is responsible, they do the right things.",
+    "example": "I try to be responsible and save money.",
+    "arabic_translation": "مسؤول / جدير بالثقة",
+    "arabic_definition": "إذا كان الشخص مسؤولاً، فإنه يفعل الأشياء الصحيحة (يتحمل المسؤولية).",
+    "arabic_example": "أحاول أن أكون مسؤولاً وأدخر المال.",
+    "extra_meanings": [
+      {
+        "meaning": "مسؤول عن (مكلف بـ)",
+        "example": "من المسؤول عن هذا المشروع؟"
+      }
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "sight",
+    "part_of_speech": "n.",
+    "definition": "A sight is something interesting to see.",
+    "example": "I saw the pyramids of Egypt. What a sight!",
+    "arabic_translation": "مشهد / منظر",
+    "arabic_definition": "المشهد هو شيء مثير للاهتمام لتراه.",
+    "arabic_example": "رأيت أهرامات مصر. يا له من مشهد!",
+    "extra_meanings": [
+      {
+        "meaning": "بصر (حاسة)",
+        "example": "فقد بصره في الحادث."
+      }
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "spot",
+    "part_of_speech": "n.",
+    "definition": "A spot is a place where something happens.",
+    "example": "The kitchen is a good spot to eat meals.",
+    "arabic_translation": "مكان / بقعة",
+    "arabic_definition": "البقعة هي مكان يحدث فيه شيء ما.",
+    "arabic_example": "المطبخ مكان جيد لتناول الوجبات.",
+    "extra_meanings": [
+      {
+        "meaning": "بقعة (لطخة)",
+        "example": "هناك بقعة حبر على قميصك."
+      },
+      {
+        "meaning": "يرصد / يلمح (فعل)",
+        "example": "لمحت صديقي وسط الحشد."
+      }
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "structure",
+    "part_of_speech": "n.",
+    "definition": "A structure is a building.",
+    "example": "They just built a beautiful new structure downtown.",
+    "arabic_translation": "مبنى / منشأة",
+    "arabic_definition": "المنشأة هي مبنى.",
+    "arabic_example": "لقد بنوا للتو مبنى جديداً جميلاً في وسط المدينة.",
+    "extra_meanings": [
+      {
+        "meaning": "هيكل / بنية",
+        "example": "درسنا بنية الخلية في العلوم."
+      }
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "whole",
+    "part_of_speech": "adj.",
+    "definition": "Whole means all of something.",
+    "example": "I ate the whole pie. We don’t have any more.",
+    "arabic_translation": "كامل / كل",
+    "arabic_definition": "الكامل يعني كل الشيء.",
+    "arabic_example": "أكلت الفطيرة كاملة. لم يعد لدينا المزيد.",
+    "extra_meanings": [
+      {
+        "meaning": "سليم / غير مكسور",
+        "example": "ابتلع الحبة سليمة."
+      }
+    ]
+  }
+]

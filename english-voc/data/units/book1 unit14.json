@@ -1,0 +1,332 @@
+[
+  {
+    "unit": 14,
+    "word": "coach",
+    "part_of_speech": "n.",
+    "definition": "A coach is a person who teaches sports.",
+    "example": "My coach gets very excited during games.",
+    "arabic_translation": "مدرب",
+    "arabic_definition": "المدرب هو الشخص الذي يعلم الرياضة.",
+    "arabic_example": "مدربي يتحمس جداً أثناء المباريات.",
+    "extra_meanings": [
+      {
+        "meaning": "حافلة (باص)",
+        "example": "سافرنا بالحافلة إلى المدينة."
+      },
+      {
+        "meaning": "عربة (قطار أو خيول)",
+        "example": "ركبنا في العربة الملكية."
+      }
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "control",
+    "part_of_speech": "v.",
+    "definition": "To control something is to make it do what you want.",
+    "example": "To control the TV, just push the buttons.",
+    "arabic_translation": "يتحكم بـ",
+    "arabic_definition": "التحكم في شيء ما هو جعله يفعل ما تريد.",
+    "arabic_example": "للتحكم في التلفاز، فقط اضغط على الأزرار.",
+    "extra_meanings": [
+      {
+        "meaning": "سيطرة (اسم)",
+        "example": "فقد السائق السيطرة على السيارة."
+      },
+      {
+        "meaning": "يضبط (مشاعر)",
+        "example": "حاول أن تضبط أعصابك."
+      }
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "description",
+    "part_of_speech": "n.",
+    "definition": "A description of someone or something says what they are like.",
+    "example": "I gave a description of the man with the gun and hat to the police.",
+    "arabic_translation": "وصف",
+    "arabic_definition": "وصف شخص أو شيء ما هو قول ما يبدو عليه.",
+    "arabic_example": "أعطيت وصفاً للرجل ذي المسدس والقبعة للشرطة.",
+    "extra_meanings": [
+      {
+        "meaning": "نوع / صنف",
+        "example": "بضائع من كل صنف ووصف."
+      }
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "direct",
+    "part_of_speech": "adj.",
+    "definition": "If something is direct, it goes straight between two places.",
+    "example": "The green path is a direct route to my house.",
+    "arabic_translation": "مباشر",
+    "arabic_definition": "إذا كان الشيء مباشراً، فهو يذهب في خط مستقيم بين مكانين.",
+    "arabic_example": "المسار الأخضر هو طريق مباشر إلى منزلي.",
+    "extra_meanings": [
+      {
+        "meaning": "يوجه / يرشد (فعل)",
+        "example": "هل يمكنك توجيهي إلى المحطة؟"
+      },
+      {
+        "meaning": "يخرج (فيلماً - فعل)",
+        "example": "سبيليبرغ أخرج الفيلم."
+      }
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "exam",
+    "part_of_speech": "n.",
+    "definition": "An exam is a test.",
+    "example": "I did some practice questions for the math exam on the board.",
+    "arabic_translation": "امتحان / اختبار",
+    "arabic_definition": "الامتحان هو اختبار.",
+    "arabic_example": "قمت بحل بعض أسئلة التدريب لامتحان الرياضيات على السبورة.",
+    "extra_meanings": [
+      {
+        "meaning": "فحص (طبي)",
+        "example": "أجرى الطبيب فحصاً لعيوني."
+      }
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "example",
+    "part_of_speech": "n.",
+    "definition": "An example of something is a thing that is typical of it.",
+    "example": "Cola is an example of a soft drink.",
+    "arabic_translation": "مثال / نموذج",
+    "arabic_definition": "مثال الشيء هو عينة نموذجية منه.",
+    "arabic_example": "الكولا مثال على المشروبات الغازية.",
+    "extra_meanings": [
+      {
+        "meaning": "قدوة",
+        "example": "يجب أن تكون قدوة حسنة لأخيك."
+      }
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "limit",
+    "part_of_speech": "n.",
+    "definition": "A limit is the largest or smallest amount of something that you allow.",
+    "example": "My mother put a limit on how much I could use the phone.",
+    "arabic_translation": "حد / قيد",
+    "arabic_definition": "الحد هو أكبر أو أصغر كمية مسموح بها من شيء ما.",
+    "arabic_example": "وضعت أمي حداً لمقدار استخدامي للهاتف.",
+    "extra_meanings": [
+      {
+        "meaning": "يحد من (فعل)",
+        "example": "يجب أن نحد من التلوث."
+      }
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "local",
+    "part_of_speech": "adj.",
+    "definition": "If something is local, it is nearby.",
+    "example": "The local market in my neighborhood sells all the food we need.",
+    "arabic_translation": "محلي",
+    "arabic_definition": "إذا كان الشيء محلياً، فهو قريب (في نفس الحي أو المنطقة).",
+    "arabic_example": "السوق المحلي في حيّنا يبيع كل الطعام الذي نحتاجه.",
+    "extra_meanings": [
+      {
+        "meaning": "موضعي (تخدير)",
+        "example": "استخدم الطبيب تخديرًا موضعياً."
+      }
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "magical",
+    "part_of_speech": "adj.",
+    "definition": "Magical describes a quality that makes someone or something special.",
+    "example": "The fireworks made the night sky look so magical.",
+    "arabic_translation": "ساحر / خلاب",
+    "arabic_definition": "تصف كلمة ساحر صفة تجعل شخصاً أو شيئاً ما مميزاً.",
+    "arabic_example": "جعلت الألعاب النارية سماء الليل تبدو ساحرة للغاية.",
+    "extra_meanings": [
+      {
+        "meaning": "سحري (متعلق بالسحر)",
+        "example": "لديه قوى سحرية."
+      }
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "mail",
+    "part_of_speech": "n.",
+    "definition": "Mail is letters and other things sent to people.",
+    "example": "I get a lot of mail because I have friends all over the world.",
+    "arabic_translation": "بريد",
+    "arabic_definition": "البريد هو الرسائل والأشياء الأخرى المرسلة للناس.",
+    "arabic_example": "أحصل على الكثير من البريد لأن لدي أصدقاء في جميع أنحاء العالم.",
+    "extra_meanings": [
+      {
+        "meaning": "يرسل بالبريد (فعل)",
+        "example": "سأرسل لك الطرد بالبريد غداً."
+      }
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "novel",
+    "part_of_speech": "n.",
+    "definition": "A novel is a book that tells a story.",
+    "example": "He wrote a great novel about ancient China.",
+    "arabic_translation": "رواية",
+    "arabic_definition": "الرواية هي كتاب يحكي قصة.",
+    "arabic_example": "كتب رواية رائعة عن الصين القديمة.",
+    "extra_meanings": [
+      {
+        "meaning": "جديد / مبتكر (صفة)",
+        "example": "هذه فكرة جديدة ومبتكرة."
+      }
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "outline",
+    "part_of_speech": "n.",
+    "definition": "An outline is the plan for a story or essay.",
+    "example": "Before I wrote my essay, I made an outline.",
+    "arabic_translation": "مخطط / مسودة أولية",
+    "arabic_definition": "المخطط هو خطة لقصة أو مقال.",
+    "arabic_example": "قبل أن أكتب مقالي، قمت بعمل مخطط.",
+    "extra_meanings": [
+      {
+        "meaning": "إطار خارجي (رسم)",
+        "example": "رسمت الإطار الخارجي للمنزل."
+      }
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "poet",
+    "part_of_speech": "n.",
+    "definition": "A poet is a person who writes poems.",
+    "example": "William Shakespeare was one of the greatest poets.",
+    "arabic_translation": "شاعر",
+    "arabic_definition": "الشاعر هو شخص يكتب القصائد.",
+    "arabic_example": "كان ويليام شكسبير واحداً من أعظم الشعراء.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 14,
+    "word": "print",
+    "part_of_speech": "v.",
+    "definition": "To print something is to put it onto paper.",
+    "example": "Make sure that you print your name clearly.",
+    "arabic_translation": "يكتب بوضوح (أحرف منفصلة) / يطبع",
+    "arabic_definition": "طباعة شيء ما هي وضعه على الورق (أو كتابة الاسم بأحرف واضحة غير مشبكة).",
+    "arabic_example": "تأكد من كتابة اسمك بوضوح.",
+    "extra_meanings": [
+      {
+        "meaning": "يطبع (باستخدام آلة)",
+        "example": "سأطبع المستند من الكمبيوتر."
+      },
+      {
+        "meaning": "طبعة / أثر (اسم)",
+        "example": "كانت هناك طبعة قدم في الرمل."
+      }
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "scene",
+    "part_of_speech": "n.",
+    "definition": "A scene is one part of a book or movie.",
+    "example": "A movie is made up of many short pieces or scenes.",
+    "arabic_translation": "مشهد",
+    "arabic_definition": "المشهد هو جزء واحد من كتاب أو فيلم.",
+    "arabic_example": "يتكون الفيلم من العديد من القطع القصيرة أو المشاهد.",
+    "extra_meanings": [
+      {
+        "meaning": "مسرح (مكان الحادث)",
+        "example": "وصلت الشرطة إلى مسرح الجريمة."
+      }
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "sheet",
+    "part_of_speech": "n.",
+    "definition": "A sheet is a thin flat piece of paper.",
+    "example": "I only needed a single sheet of paper to do my homework.",
+    "arabic_translation": "ورقة",
+    "arabic_definition": "الورقة هي قطعة رفيعة ومسطحة من الورق.",
+    "arabic_example": "كنت أحتاج فقط لورقة واحدة لأداء واجبي المنزلي.",
+    "extra_meanings": [
+      {
+        "meaning": "ملاءة (سرير)",
+        "example": "غيرت ملاءات السرير هذا الصباح."
+      },
+      {
+        "meaning": "لوح / صفيحة (معدن أو زجاج)",
+        "example": "لوح من المعدن."
+      }
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "silly",
+    "part_of_speech": "adj.",
+    "definition": "If someone or something is silly, they show a lack of thought.",
+    "example": "I made a silly mistake of dropping mom’s vase.",
+    "arabic_translation": "سخيف / أحمق",
+    "arabic_definition": "إذا كان شخص أو شيء سخيفاً، فهو يظهر قلة تفكير.",
+    "arabic_example": "ارتكبت خطأ سخيفاً بإسقاط مزهرية أمي.",
+    "extra_meanings": [
+      {
+        "meaning": "مرح / طريف",
+        "example": "توقف عن التصرف بطريقة مرحة (تهريج)."
+      }
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "store",
+    "part_of_speech": "n.",
+    "definition": "A store is a place where you can buy things.",
+    "example": "I picked up a few things at the grocery store.",
+    "arabic_translation": "متجر / محل",
+    "arabic_definition": "المتجر هو مكان يمكنك شراء الأشياء منه.",
+    "arabic_example": "اشتريت بعض الأشياء من متجر البقالة.",
+    "extra_meanings": [
+      {
+        "meaning": "يخزن (فعل)",
+        "example": "السنجاب يخزن المكسرات للشتاء."
+      }
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "suffer",
+    "part_of_speech": "v.",
+    "definition": "To suffer is to feel pain.",
+    "example": "Her headache made her suffer all day.",
+    "arabic_translation": "يعاني / يتألم",
+    "arabic_definition": "المعاناة هي الشعور بالألم.",
+    "arabic_example": "صداعها جعلها تعاني طوال اليوم.",
+    "extra_meanings": [
+      {
+        "meaning": "يتكبد (خسارة)",
+        "example": "تكبد الجيش خسائر فادحة."
+      }
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "technology",
+    "part_of_speech": "n.",
+    "definition": "Technology is new things made by using science.",
+    "example": "He loves technology such as laptop computers.",
+    "arabic_translation": "تكنولوجيا / تقنية",
+    "arabic_definition": "التكنولوجيا هي أشياء جديدة تُصنع باستخدام العلم.",
+    "arabic_example": "هو يحب التكنولوجيا مثل أجهزة الكمبيوتر المحمولة.",
+    "extra_meanings": []
+  }
+]

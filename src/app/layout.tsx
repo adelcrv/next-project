@@ -16,8 +16,25 @@ import { AppShell } from "@/components/layout/AppShell";
 // });
 
 export const metadata: Metadata = {
-  title: "Next Project",
-  description: "Starting point for your app",
+  title: "LearnEnglish - Vocabulary App",
+  description: "Learn English vocabulary with spaced repetition",
+  manifest: "/manifest.json",
+  themeColor: "#2563eb",
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: "default",
+    title: "LearnEnglish",
+  },
+  viewport: {
+    width: "device-width",
+    initialScale: 1,
+    maximumScale: 1,
+    userScalable: false,
+  },
+  icons: {
+    icon: "/icons/icon-192x192.png",
+    apple: "/icons/icon-192x192.png",
+  },
 };
 
 export default function RootLayout({

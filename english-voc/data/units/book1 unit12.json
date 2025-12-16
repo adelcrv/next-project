@@ -1,0 +1,293 @@
+[
+  {
+    "unit": 12,
+    "word": "alone",
+    "part_of_speech": "adj.",
+    "definition": "If someone is alone, they are not with another person.",
+    "example": "The boy wanted to be alone to think.",
+    "arabic_translation": "وحيد / بمفرده",
+    "arabic_definition": "إذا كان الشخص وحيداً، فهو ليس بصحبة شخص آخر.",
+    "arabic_example": "أراد الصبي أن يكون بمفرده ليفكر.",
+    "extra_meanings": [
+      {
+        "meaning": "فقط / حصراً",
+        "example": "المال وحده لا يجلب السعادة."
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "word": "apartment",
+    "part_of_speech": "n.",
+    "definition": "An apartment is a set of rooms in a building where people live.",
+    "example": "She has a nice apartment in the city.",
+    "arabic_translation": "شقة",
+    "arabic_definition": "الشقة هي مجموعة من الغرف في مبنى يعيش فيه الناس.",
+    "arabic_example": "لديها شقة جميلة في المدينة.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 12,
+    "word": "article",
+    "part_of_speech": "n.",
+    "definition": "An article is a story in a newspaper or magazine.",
+    "example": "Did you read the article in the newspaper about the soccer game?",
+    "arabic_translation": "مقال",
+    "arabic_definition": "المقال هو قصة أو موضوع مكتوب في جريدة أو مجلة.",
+    "arabic_example": "هل قرأت المقال في الصحيفة عن مباراة كرة القدم؟",
+    "extra_meanings": [
+      {
+        "meaning": "بند / مادة (قانونية)",
+        "example": "المادة الخامسة من الدستور."
+      },
+      {
+        "meaning": "أداة (في النحو)",
+        "example": "أداة التعريف وأداة النكرة."
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "word": "artist",
+    "part_of_speech": "n.",
+    "definition": "An artist is a person who paints, draws, or makes sculptures.",
+    "example": "He went to Paris to become an artist.",
+    "arabic_translation": "فنان",
+    "arabic_definition": "الفنان هو شخص يرسم أو يلون أو ينحت.",
+    "arabic_example": "ذهب إلى باريس ليصبح فناناً.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 12,
+    "word": "attitude",
+    "part_of_speech": "n.",
+    "definition": "Someone’s attitude is the way they feel and think.",
+    "example": "John has a bad attitude. He’s always angry.",
+    "arabic_translation": "موقف / سلوك / عقلية",
+    "arabic_definition": "موقف الشخص هو الطريقة التي يشعر ويفكر بها.",
+    "arabic_example": "جون لديه سلوك سيء. إنه غاضب دائماً.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 12,
+    "word": "compare",
+    "part_of_speech": "v.",
+    "definition": "To compare means to say how two things are the same and different.",
+    "example": "If you compare cats and dogs, you’ll see that they’re both good pets.",
+    "arabic_translation": "يقارن",
+    "arabic_definition": "المقارنة تعني ذكر أوجه الشبه والاختلاف بين شيئين.",
+    "arabic_example": "إذا قارنت بين القطط والكلاب، سترى أن كلاهما حيوانات أليفة جيدة.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 12,
+    "word": "judge",
+    "part_of_speech": "v.",
+    "definition": "To judge something is to say if it is good or bad.",
+    "example": "The boy was going to judge how his mother’s turkey tasted.",
+    "arabic_translation": "يحكم على / يقيّم",
+    "arabic_definition": "الحكم على شيء ما هو القول ما إذا كان جيداً أم سيئاً.",
+    "arabic_example": "كان الصبي سيحكم على طعم الديك الرومي الذي أعدته والدته.",
+    "extra_meanings": [
+      {
+        "meaning": "قاضي (اسم)",
+        "example": "استمع القاضي إلى الشهود."
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "word": "magazine",
+    "part_of_speech": "n.",
+    "definition": "A magazine is a regular publication with news, stories, and articles.",
+    "example": "She likes to read fashion magazines.",
+    "arabic_translation": "مجلة",
+    "arabic_definition": "المجلة هي منشور دوري يحتوي على أخبار وقصص ومقالات.",
+    "arabic_example": "هي تحب قراءة مجلات الموضة.",
+    "extra_meanings": [
+      {
+        "meaning": "مخزن (ذخيرة)",
+        "example": "أفرغ الجندي مخزن بندقيته."
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "word": "material",
+    "part_of_speech": "n.",
+    "definition": "A material is what is used to make something.",
+    "example": "Brick is a good material for building houses.",
+    "arabic_translation": "مادة / خامة",
+    "arabic_definition": "المادة هي ما يستخدم لصنع شيء ما.",
+    "arabic_example": "الطوب مادة جيدة لبناء المنازل.",
+    "extra_meanings": [
+      {
+        "meaning": "قماش",
+        "example": "اشتريت بعض القماش لصنع فستان."
+      },
+      {
+        "meaning": "مادي (عكس معنوي)",
+        "example": "الثروة المادية ليست كل شيء."
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "word": "meal",
+    "part_of_speech": "n.",
+    "definition": "A meal is a time when food is eaten like breakfast, lunch, or dinner.",
+    "example": "Breakfast is my favorite meal because I enjoy breakfast foods.",
+    "arabic_translation": "وجبة",
+    "arabic_definition": "الوجبة هي الوقت الذي يؤكل فيه الطعام مثل الإفطار أو الغداء أو العشاء.",
+    "arabic_example": "الإفطار هو وجبتي المفضلة لأنني أستمتع بأطعمة الفطور.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 12,
+    "word": "method",
+    "part_of_speech": "n.",
+    "definition": "A method is the way to do something.",
+    "example": "One method to remember things is to tie a string around your finger.",
+    "arabic_translation": "طريقة / أسلوب",
+    "arabic_definition": "الطريقة هي الكيفية التي يتم بها فعل شيء ما.",
+    "arabic_example": "إحدى طرق تذكر الأشياء هي ربط خيط حول إصبعك.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 12,
+    "word": "neighbor",
+    "part_of_speech": "n.",
+    "definition": "A neighbor is a person who lives near you.",
+    "example": "I like my neighbor because he’s very friendly.",
+    "arabic_translation": "جار",
+    "arabic_definition": "الجار هو الشخص الذي يسكن بالقرب منك.",
+    "arabic_example": "أحب جاري لأنه ودود للغاية.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 12,
+    "word": "professional",
+    "part_of_speech": "adj.",
+    "definition": "If something is professional, it deals with work that uses special skills.",
+    "example": "If you want to be a pilot, you must have professional training.",
+    "arabic_translation": "مهني / احترافي",
+    "arabic_definition": "إذا كان الشيء مهنياً، فهو يتعلق بعمل يستخدم مهارات خاصة.",
+    "arabic_example": "إذا كنت تريد أن تكون طياراً، يجب أن تحصل على تدريب احترافي.",
+    "extra_meanings": [
+      {
+        "meaning": "محترف (شخص)",
+        "example": "إنه لاعب كرة قدم محترف."
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "word": "profit",
+    "part_of_speech": "n.",
+    "definition": "A profit is the extra money you make when you sell something.",
+    "example": "I made a small profit from selling my old clothes.",
+    "arabic_translation": "ربح / مكسب",
+    "arabic_definition": "الربح هو المال الإضافي الذي تكسبه عند بيع شيء ما.",
+    "arabic_example": "حققت ربحاً صغيراً من بيع ملابسي القديمة.",
+    "extra_meanings": [
+      {
+        "meaning": "يستفيد (فعل)",
+        "example": "سوف تستفيد من نصيحته."
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "word": "quality",
+    "part_of_speech": "n.",
+    "definition": "The quality of something is how good it is.",
+    "example": "The quality of his car is very good.",
+    "arabic_translation": "جودة / نوعية",
+    "arabic_definition": "جودة الشيء هي مدى كونه جيداً.",
+    "arabic_example": "جودة سيارته جيدة جداً.",
+    "extra_meanings": [
+      {
+        "meaning": "صفة / ميزة (شخصية)",
+        "example": "الصدق صفة مهمة."
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "word": "shape",
+    "part_of_speech": "n.",
+    "definition": "A shape is a simple form like a square or circle.",
+    "example": "The triangle is my favorite shape.",
+    "arabic_translation": "شكل",
+    "arabic_definition": "الشكل هو هيئة بسيطة مثل المربع أو الدائرة.",
+    "arabic_example": "المثلث هو شكلي المفضل.",
+    "extra_meanings": [
+      {
+        "meaning": "لياقة بدنية",
+        "example": "أحاول استعادة لياقتي البدنية."
+      },
+      {
+        "meaning": "يشكل / يصيغ (فعل)",
+        "example": "شكل الطين ليصنع وعاء."
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "word": "space",
+    "part_of_speech": "n.",
+    "definition": "A space is an empty area.",
+    "example": "I don’t have much space for things in my small house.",
+    "arabic_translation": "مساحة / حيز",
+    "arabic_definition": "المساحة هي منطقة فارغة.",
+    "arabic_example": "ليس لدي مساحة كبيرة للأغراض في منزلي الصغير.",
+    "extra_meanings": [
+      {
+        "meaning": "فضاء (خارجي)",
+        "example": "رواد الفضاء يسافرون إلى الفضاء."
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "word": "stair",
+    "part_of_speech": "n.",
+    "definition": "Stairs are the things that are used to go up in a building.",
+    "example": "You can take the stairs to the second floor.",
+    "arabic_translation": "درجة سلم",
+    "arabic_definition": "الدرج (السلالم) هي الأشياء المستخدمة للصعود في المبنى.",
+    "arabic_example": "يمكنك صعود الدرج إلى الطابق الثاني.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 12,
+    "word": "symbol",
+    "part_of_speech": "n.",
+    "definition": "A symbol is a thing that stands for something else.",
+    "example": "This symbol tells us that we cannot smoke in this area.",
+    "arabic_translation": "رمز",
+    "arabic_definition": "الرمز هو شيء يمثل شيئاً آخر.",
+    "arabic_example": "هذا الرمز يخبرنا أنه لا يمكننا التدخين في هذه المنطقة.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 12,
+    "word": "thin",
+    "part_of_speech": "adj.",
+    "definition": "If someone or something is thin, they are not fat.",
+    "example": "The man was thin because he didn’t eat much.",
+    "arabic_translation": "نحيف / نحيل",
+    "arabic_definition": "إذا كان شخص أو شيء نحيفاً، فهو ليس سميناً.",
+    "arabic_example": "كان الرجل نحيفاً لأنه لم يأكل كثيراً.",
+    "extra_meanings": [
+      {
+        "meaning": "رقيق (للأشياء)",
+        "example": "الورقة رقيقة جداً."
+      },
+      {
+        "meaning": "خفيف (للسوائل)",
+        "example": "الحساء كان خفيفاً جداً."
+      }
+    ]
+  }
+]
