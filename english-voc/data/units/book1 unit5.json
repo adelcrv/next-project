@@ -1,0 +1,342 @@
+[
+  {
+    "unit": 5,
+    "word": "aware",
+    "part_of_speech": "adj.",
+    "definition": "If you are aware of something, you know about it.",
+    "example": "I was not aware of the ringing phone.",
+    "arabic_translation": "مُدرك / واعٍ",
+    "arabic_definition": "إذا كنت مدركاً لشيء ما، فأنت تعلم بوجوده.",
+    "arabic_example": "لم أكن مدركاً لرنين الهاتف.",
+    "extra_meanings": [
+      {
+        "meaning": "منتبه (لشيء ما)",
+        "example": "كن منتبهاً للمخاطر المحتملة."
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "badly",
+    "part_of_speech": "adv.",
+    "definition": "Badly means in a severe or harmful way.",
+    "example": "He hurt his arm badly playing with friends.",
+    "arabic_translation": "بشدة / بشكل بالغ (للأذى)",
+    "arabic_definition": "بشكل سيء يعني بطريقة قاسية أو مؤذية.",
+    "arabic_example": "لقد أذى ذراعه بشدة أثناء اللعب مع الأصدقاء.",
+    "extra_meanings": [
+      {
+        "meaning": "بشكل رديء (عكس جيداً)",
+        "example": "أدى الفريق المباراة بشكل رديء."
+      },
+      {
+        "meaning": "بإلحاح / جداً (للرغبة)",
+        "example": "أريد تلك الوظيفة بشدة."
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "belong",
+    "part_of_speech": "v.",
+    "definition": "If something belongs to you, you own it.",
+    "example": "The blue suit belongs to Paul.",
+    "arabic_translation": "يخص / ينتمي لـ",
+    "arabic_definition": "إذا كان الشيء يخصك، فأنت تمتلكه.",
+    "arabic_example": "البدلة الزرقاء تخص بول.",
+    "extra_meanings": [
+      {
+        "meaning": "ينتمي (لعضوية مجموعة)",
+        "example": "هو ينتمي لنادي الشطرنج."
+      },
+      {
+        "meaning": "يكون في مكانه الصحيح",
+        "example": "هذا الكتاب مكانه على الرف العلوي."
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "continue",
+    "part_of_speech": "v.",
+    "definition": "To continue something is to keep doing it.",
+    "example": "She stood under her umbrella as the rain continued to fall.",
+    "arabic_translation": "يستمر / يواصل",
+    "arabic_definition": "مواصلة شيء ما هي الاستمرار في فعله.",
+    "arabic_example": "وقفت تحت مظلتها بينما استمر المطر في الهطول.",
+    "extra_meanings": [
+      {
+        "meaning": "يستأنف (بعد توقف)",
+        "example": "سنستأنف الاجتماع بعد الغداء."
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "error",
+    "part_of_speech": "n.",
+    "definition": "An error is something you do wrong.",
+    "example": "I made an error on my report, so my boss was angry.",
+    "arabic_translation": "خطأ",
+    "arabic_definition": "الخطأ هو فعل شيء غير صحيح.",
+    "arabic_example": "ارتكبت خطأ في تقريري، لذا غضب مديري.",
+    "extra_meanings": [
+      {
+        "meaning": "خلل (تقني)",
+        "example": "حدث خلل في نظام الكمبيوتر."
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "experience",
+    "part_of_speech": "n.",
+    "definition": "An experience is something you have seen or done.",
+    "example": "Rock climbing was a fun experience.",
+    "arabic_translation": "تجربة (حياتية)",
+    "arabic_definition": "التجربة هي شيء رأيته أو قمت به.",
+    "arabic_example": "كان تسلق الصخور تجربة ممتعة.",
+    "extra_meanings": [
+      {
+        "meaning": "خبرة (عملية)",
+        "example": "لديه عشر سنوات من الخبرة في التعليم."
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "field",
+    "part_of_speech": "n.",
+    "definition": "A field is a big area of land.",
+    "example": "The field of flowers looked so pretty.",
+    "arabic_translation": "حقل",
+    "arabic_definition": "الحقل هو مساحة كبيرة من الأرض.",
+    "arabic_example": "بدا حقل الزهور جميلاً جداً.",
+    "extra_meanings": [
+      {
+        "meaning": "مجال (تخصص)",
+        "example": "يعمل في مجال الطب."
+      },
+      {
+        "meaning": "ملعب (رياضي)",
+        "example": "نزل اللاعبون إلى أرض الملعب."
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "hurt",
+    "part_of_speech": "v.",
+    "definition": "To hurt is to do something that makes you feel pain.",
+    "example": "She hurt her leg falling down the stairs.",
+    "arabic_translation": "يؤذي / يجرح",
+    "arabic_definition": "أن تؤذي يعني أن تفعل شيئاً يسبب الشعور بالألم.",
+    "arabic_example": "أذت ساقها عند سقوطها من على الدرج.",
+    "extra_meanings": [
+      {
+        "meaning": "يؤلم (شعور)",
+        "example": "رأسي يؤلمني."
+      },
+      {
+        "meaning": "يجرح المشاعر",
+        "example": "كلماته جرحت مشاعري."
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "judgment",
+    "part_of_speech": "n.",
+    "definition": "Judgment is the ability to form opinions or decisions.",
+    "example": "It’s good judgment to recycle your aluminum cans.",
+    "arabic_translation": "حكم / تقدير",
+    "arabic_definition": "الحكم هو القدرة على تكوين آراء أو اتخاذ قرارات.",
+    "arabic_example": "إنه تقدير جيد أن تعيد تدوير علب الألمنيوم الخاصة بك.",
+    "extra_meanings": [
+      {
+        "meaning": "حكم قضائي",
+        "example": "أصدرت المحكمة حكمها النهائي."
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "likely",
+    "part_of_speech": "adv.",
+    "definition": "If something likely happens, it will probably happen.",
+    "example": "I will likely stay at home and watch TV tonight.",
+    "arabic_translation": "من المحتمل",
+    "arabic_definition": "إذا كان حدوث شيء مرجحاً (likely)، فمن المحتمل أن يحدث.",
+    "arabic_example": "من المحتمل أن أبقى في المنزل وأشاهد التلفاز الليلة.",
+    "extra_meanings": [
+      {
+        "meaning": "مناسب (مرشح)",
+        "example": "إنه المرشح الأنسب للوظيفة."
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "normal",
+    "part_of_speech": "adj.",
+    "definition": "If something is normal, it is not strange nor surprising to you.",
+    "example": "It is normal for me to bathe every night.",
+    "arabic_translation": "طبيعي / عادي",
+    "arabic_definition": "إذا كان الشيء طبيعياً، فهو ليس غريباً ولا مفاجئاً لك.",
+    "arabic_example": "من الطبيعي بالنسبة لي أن أستحم كل ليلة.",
+    "extra_meanings": [
+      {
+        "meaning": "سوي (عقلياً)",
+        "example": "تصرفه كان سوياً تماماً."
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "rare",
+    "part_of_speech": "adj.",
+    "definition": "If something is rare, you do not see it very often.",
+    "example": "It is rare for him to miss his flight.",
+    "arabic_translation": "نادر",
+    "arabic_definition": "إذا كان الشيء نادراً، فأنت لا تراه كثيراً.",
+    "arabic_example": "من النادر أن تفوته رحلته.",
+    "extra_meanings": [
+      {
+        "meaning": "نيئ / غير ناضج (للحم)",
+        "example": "أحب شريحة اللحم غير ناضجة قليلاً (rare)."
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "relax",
+    "part_of_speech": "v.",
+    "definition": "To relax is to rest.",
+    "example": "The frog relaxed in the warm sun.",
+    "arabic_translation": "يسترخي / يرتاح",
+    "arabic_definition": "الاسترخاء هو الحصول على قسط من الراحة.",
+    "arabic_example": "استرخى الضفدع تحت شمس دافئة.",
+    "extra_meanings": [
+      {
+        "meaning": "يخفف (قوانين أو قبضة)",
+        "example": "قررت الحكومة تخفيف القيود."
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "request",
+    "part_of_speech": "v.",
+    "definition": "To request something is to ask for it.",
+    "example": "The little girl requested a special gift from Santa Claus.",
+    "arabic_translation": "يطلب",
+    "arabic_definition": "طلب شيء ما هو السؤال للحصول عليه.",
+    "arabic_example": "طلبت الفتاة الصغيرة هدية خاصة من سانتا كلوز.",
+    "extra_meanings": [
+      {
+        "meaning": "طلب (اسم)",
+        "example": "قدمت طلباً للحصول على إجازة."
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "reside",
+    "part_of_speech": "v.",
+    "definition": "To reside means to live somewhere permanently or for a long time.",
+    "example": "My brother and his family reside in a lovely house on the beach.",
+    "arabic_translation": "يقيم / يسكن",
+    "arabic_definition": "الإقامة تعني العيش في مكان ما بشكل دائم أو لفترة طويلة.",
+    "arabic_example": "يقيم أخي وعائلته في منزل جميل على الشاطئ.",
+    "extra_meanings": [
+      {
+        "meaning": "يكمن في (مجازي)",
+        "example": "السعادة تكمن في الرضا."
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "result",
+    "part_of_speech": "n.",
+    "definition": "A result is something that happens because of something else.",
+    "example": "As a result of all the rain, the man had to climb on the roof.",
+    "arabic_translation": "نتيجة",
+    "arabic_definition": "النتيجة هي شيء يحدث بسبب شيء آخر.",
+    "arabic_example": "نتيجة لكل هذا المطر، اضطر الرجل للصعود إلى السطح.",
+    "extra_meanings": [
+      {
+        "meaning": "يسفر عن (فعل)",
+        "example": "أسفر الحادث عن إصابات."
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "roll",
+    "part_of_speech": "v.",
+    "definition": "To roll is to move by turning over and over.",
+    "example": "You must roll the ball into the pins when you bowl.",
+    "arabic_translation": "يدحرج",
+    "arabic_definition": "الدحرجة هي التحرك عن طريق الانقلاب مراراً وتكراراً.",
+    "arabic_example": "يجب عليك دحرجة الكرة نحو القوارير عندما تلعب البولينج.",
+    "extra_meanings": [
+      {
+        "meaning": "لفافة / رغيف صغير (اسم)",
+        "example": "أكلت لفافة خبز على العشاء."
+      },
+      {
+        "meaning": "يلف / يطوي",
+        "example": "قم بلف السجادة."
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "since",
+    "part_of_speech": "prep.",
+    "definition": "Since is used to talk about a past event still happening now.",
+    "example": "Since 1992, he has been driving that car.",
+    "arabic_translation": "منذ",
+    "arabic_definition": "تستخدم للحديث عن حدث ماضٍ لا يزال مستمراً الآن.",
+    "arabic_example": "منذ عام 1992، وهو يقود تلك السيارة.",
+    "extra_meanings": [
+      {
+        "meaning": "بما أن / نظراً لأن",
+        "example": "بما أنك هنا، فلنبدأ."
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "visible",
+    "part_of_speech": "adj.",
+    "definition": "If something is visible, it can be seen.",
+    "example": "The moon and stars were visible in the night sky.",
+    "arabic_translation": "مرئي / ظاهر",
+    "arabic_definition": "إذا كان الشيء مرئياً، فيمكن رؤيته.",
+    "arabic_example": "كان القمر والنجوم ظاهرين في سماء الليل.",
+    "extra_meanings": [
+      {
+        "meaning": "واضح / جلي",
+        "example": "كان هناك تحسن واضح في أدائه."
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "wild",
+    "part_of_speech": "adj.",
+    "definition": "If something is wild, it is found in nature.",
+    "example": "You should be careful around a fox, because it is a wild animal.",
+    "arabic_translation": "بري / متوحش",
+    "arabic_definition": "إذا كان الشيء برياً، فهو موجود في الطبيعة (غير مستأنس).",
+    "arabic_example": "يجب أن تكون حذراً حول الثعلب، لأنه حيوان بري.",
+    "extra_meanings": [
+      {
+        "meaning": "جامح / صاخب",
+        "example": "أقاموا حفلة صاخبة الليلة الماضية."
+      }
+    ]
+  }
+]

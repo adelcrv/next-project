@@ -1,0 +1,353 @@
+[
+  {
+    "unit": 4,
+    "word": "appropriate",
+    "part_of_speech": "adj.",
+    "definition": "When a thing is appropriate, it is right or normal.",
+    "example": "It's appropriate to wear a suit when you go to the office.",
+    "arabic_translation": "مناسب / ملائم",
+    "arabic_definition": "عندما يكون الشيء مناسباً، فهو صحيح أو طبيعي للموقف.",
+    "arabic_example": "من المناسب ارتداء بدلة عند الذهاب إلى المكتب.",
+    "extra_meanings": [
+      {
+        "meaning": "يخصص (مالاً لغرض ما)",
+        "example": "خصصت الحكومة أموالاً للتعليم."
+      },
+      {
+        "meaning": "يستولي على (بدون حق)",
+        "example": "استولى على أفكار زميله."
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "avoid",
+    "part_of_speech": "v.",
+    "definition": "To avoid something is to stay away from it.",
+    "example": "Avoid the broken bottle on the floor.",
+    "arabic_translation": "يتجنب / يتحاشى",
+    "arabic_definition": "تجنب شيء ما هو الابتعاد عنه.",
+    "arabic_example": "تجنب الزجاجة المكسورة على الأرض.",
+    "extra_meanings": [
+      {
+        "meaning": "يمنع (حدوث شيء)",
+        "example": "حاول السائق تجنب الحادث."
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "behave",
+    "part_of_speech": "v.",
+    "definition": "To behave is to act in a particular way, especially to be good.",
+    "example": "She always behaves well when her father is around.",
+    "arabic_translation": "يتصرف / يسلك",
+    "arabic_definition": "التصرف هو القيام بأفعال بطريقة معينة، وخاصة أن تكون مهذباً.",
+    "arabic_example": "هي تتصرف دائماً بشكل جيد عندما يكون والدها موجوداً.",
+    "extra_meanings": [
+      {
+        "meaning": "يتأدب (أمر)",
+        "example": "تأدب يا بني!"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "calm",
+    "part_of_speech": "adj.",
+    "definition": "When someone is calm, they do not get excited or upset.",
+    "example": "A nice warm bath makes me feel so calm.",
+    "arabic_translation": "هادئ",
+    "arabic_definition": "عندما يكون شخص ما هادئاً، فإنه لا ينفعل أو ينزعج.",
+    "arabic_example": "حمام دافئ لطيف يجعلني أشعر بالهدوء الشديد.",
+    "extra_meanings": [
+      {
+        "meaning": "ساكن (الرياح أو البحر)",
+        "example": "البحر ساكن اليوم."
+      },
+      {
+        "meaning": "يهدئ (فعل)",
+        "example": "حاولت تهدئة الطفل الباكي."
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "concern",
+    "part_of_speech": "n.",
+    "definition": "Concern is a feeling of worry.",
+    "example": "I was filled with concern after reading the newspaper.",
+    "arabic_translation": "قلق / اهتمام",
+    "arabic_definition": "القلق هو شعور بالخوف أو الانزعاج.",
+    "arabic_example": "كنت مليئاً بالقلق بعد قراءة الصحيفة.",
+    "extra_meanings": [
+      {
+        "meaning": "يخص / يعني (فعل)",
+        "example": "هذا الأمر لا يخصك."
+      },
+      {
+        "meaning": "شأن / عمل",
+        "example": "هذا شأني الخاص."
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "content",
+    "part_of_speech": "adj.",
+    "definition": "To be content is to be happy and not want more.",
+    "example": "The baby looked very content sitting on the floor.",
+    "arabic_translation": "راضٍ / قانع",
+    "arabic_definition": "أن تكون راضياً يعني أن تكون سعيداً ولا تريد المزيد.",
+    "arabic_example": "بدا الطفل راضياً جداً وهو جالس على الأرض.",
+    "extra_meanings": [
+      {
+        "meaning": "مُحتوى (اسم - نطق مختلف)",
+        "example": "محتوى الكتاب مثير للاهتمام."
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "expect",
+    "part_of_speech": "v.",
+    "definition": "If you expect something to happen, you believe it will happen.",
+    "example": "I expect the bus to be here very soon.",
+    "arabic_translation": "يتوقع",
+    "arabic_definition": "إذا كنت تتوقع حدوث شيء ما، فأنت تعتقد أنه سيحدث.",
+    "arabic_example": "أتوقع وصول الحافلة قريباً جداً.",
+    "extra_meanings": [
+      {
+        "meaning": "ينتظر (مولوداً)",
+        "example": "زوجتي تنتظر مولوداً."
+      },
+      {
+        "meaning": "يطلب / يرتجي",
+        "example": "أتوقع منك الاحترام."
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "frequently",
+    "part_of_speech": "adv.",
+    "definition": "When something happens frequently, it happens often.",
+    "example": "We meet frequently, either at the beginning or ending of the week.",
+    "arabic_translation": "كثيراً / بشكل متكرر",
+    "arabic_definition": "عندما يحدث شيء بشكل متكرر، فهذا يعني أنه يحدث في أوقات كثيرة.",
+    "arabic_example": "نلتقي كثيراً، إما في بداية الأسبوع أو نهايته.",
+    "extra_meanings": [
+      {
+        "meaning": "غالباً",
+        "example": "هو يزور المكتبة غالباً."
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "habit",
+    "part_of_speech": "n.",
+    "definition": "A habit is a thing that you do often.",
+    "example": "Smoking is a bad habit that can kill you.",
+    "arabic_translation": "عادة",
+    "arabic_definition": "العادة هي شيء تفعله في كثير من الأحيان.",
+    "arabic_example": "التدخين عادة سيئة يمكن أن تقتلك.",
+    "extra_meanings": [
+      {
+        "meaning": "رداء (للرهبان)",
+        "example": "كانت الراهبة ترتدي رداءها."
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "instruct",
+    "part_of_speech": "v.",
+    "definition": "To instruct is to teach.",
+    "example": "My teacher instructs us in several subjects.",
+    "arabic_translation": "يُعَلِّم / يدرس",
+    "arabic_definition": "التعليم هو تدريس شيء ما.",
+    "arabic_example": "معلمي يدرسنا في عدة مواد.",
+    "extra_meanings": [
+      {
+        "meaning": "يأمر / يوجه",
+        "example": "أمر الضابط جنوده بالتقدم."
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "issue",
+    "part_of_speech": "n.",
+    "definition": "An issue is an important topic.",
+    "example": "The men spoke about issues that were important to the people.",
+    "arabic_translation": "قضية / مسألة",
+    "arabic_definition": "القضية هي موضوع مهم للنقاش.",
+    "arabic_example": "تحدث الرجال عن قضايا كانت تهم الناس.",
+    "extra_meanings": [
+      {
+        "meaning": "عدد (من مجلة أو جريدة)",
+        "example": "قرأت العدد الأخير من المجلة."
+      },
+      {
+        "meaning": "يُصدر (فعل)",
+        "example": "أصدرت الحكومة بياناً رسمياً."
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "none",
+    "part_of_speech": "pron.",
+    "definition": "None means not any of someone or something.",
+    "example": "He spent all his money. There is none left.",
+    "arabic_translation": "لا شيء / لا أحد",
+    "arabic_definition": "تعني عدم وجود أي جزء من شخص أو شيء.",
+    "arabic_example": "أنفق كل ماله. لم يتبق شيء.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 4,
+    "word": "patient",
+    "part_of_speech": "adj.",
+    "definition": "If a person is patient, they don't become angry or upset easily.",
+    "example": "I had to be patient and wait until 5 o'clock to leave.",
+    "arabic_translation": "صبور",
+    "arabic_definition": "إذا كان الشخص صبوراً، فهو لا يغضب أو ينزعج بسهولة.",
+    "arabic_example": "كان علي أن أكون صبوراً وأنتظر حتى الساعة الخامسة للمغادرة.",
+    "extra_meanings": [
+      {
+        "meaning": "مريض (اسم)",
+        "example": "فحص الطبيب المريض بعناية."
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "positive",
+    "part_of_speech": "adj.",
+    "definition": "If something is positive, it is good.",
+    "example": "She has a positive future ahead of her after finishing college.",
+    "arabic_translation": "إيجابي / جيد",
+    "arabic_definition": "إذا كان الشيء إيجابياً، فهو جيد.",
+    "arabic_example": "لديها مستقبل إيجابي ينتظرها بعد إنهاء الكلية.",
+    "extra_meanings": [
+      {
+        "meaning": "واثق / متأكد",
+        "example": "أنا واثق تماماً من إجابتي."
+      },
+      {
+        "meaning": "موجب (نتيجة فحص طبي)",
+        "example": "كانت نتيجة الفحص موجبة."
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "punish",
+    "part_of_speech": "v.",
+    "definition": "To punish means to make someone suffer for breaking the rules or laws.",
+    "example": "To punish me, my teacher had me stand in the corner.",
+    "arabic_translation": "يعاقب",
+    "arabic_definition": "المعاقبة تعني جعل شخص ما يعاني لكسره القواعد أو القوانين.",
+    "arabic_example": "لمعاقبتي، جعلني معلمي أقف في الزاوية.",
+    "extra_meanings": [
+      {
+        "meaning": "يُجهد (بشدة)",
+        "example": "أجهد اللاعب جسده في التدريب."
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "represent",
+    "part_of_speech": "v.",
+    "definition": "To represent is to speak or act for a person or group.",
+    "example": "My lawyer will represent me in court.",
+    "arabic_translation": "يمثل / ينوب عن",
+    "arabic_definition": "التمثيل هو التحدث أو التصرف نيابة عن شخص أو مجموعة.",
+    "arabic_example": "سيمثلني محاميّ في المحكمة.",
+    "extra_meanings": [
+      {
+        "meaning": "يرمز إلى",
+        "example": "اللون الأبيض يرمز إلى السلام."
+      },
+      {
+        "meaning": "يشكل / يمثل",
+        "example": "هذا القرار يشكل خطراً علينا."
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "shake",
+    "part_of_speech": "v.",
+    "definition": "To shake is to move back and forth or up and down quickly.",
+    "example": "When people shake hands, it usually means they agree.",
+    "arabic_translation": "يهز / يصافح",
+    "arabic_definition": "الاهتزاز هو التحرك ذهاباً وإياباً أو صعوداً وهبوطاً بسرعة.",
+    "arabic_example": "عندما يتصافح الناس، فهذا يعني عادة أنهم متفقون.",
+    "extra_meanings": [
+      {
+        "meaning": "يرتجف (من البرد أو الخوف)",
+        "example": "كان يرتجف من البرد."
+      },
+      {
+        "meaning": "مخفوق الحليب (ميلك شيك)",
+        "example": "شربت مخفوق الشوكولاتة."
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "spread",
+    "part_of_speech": "v.",
+    "definition": "To spread is to move quickly to more places.",
+    "example": "I like to spread butter on my toast.",
+    "arabic_translation": "ينشر / يمد / يدهن",
+    "arabic_definition": "الانتشار هو التحرك بسرعة إلى أماكن أكثر أو توزيع الشيء.",
+    "arabic_example": "أحب أن أدهن الزبدة على خبزي المحمص.",
+    "extra_meanings": [
+      {
+        "meaning": "انتشار (اسم)",
+        "example": "حاولوا منع انتشار المرض."
+      },
+      {
+        "meaning": "وليمة (عامية)",
+        "example": "أعدوا وليمة كبيرة للضيوف."
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "stroll",
+    "part_of_speech": "v.",
+    "definition": "To stroll means to walk slowly and calmly.",
+    "example": "My dog and I strolled through the park today.",
+    "arabic_translation": "يتنزه / يتمشى",
+    "arabic_definition": "التنزه يعني المشي ببطء وهدوء.",
+    "arabic_example": "تجولت أنا وكلبي في الحديقة اليوم.",
+    "extra_meanings": [
+      {
+        "meaning": "نزهة (اسم)",
+        "example": "ذهبنا في نزهة مسائية."
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "village",
+    "part_of_speech": "n.",
+    "definition": "A village is a very small town.",
+    "example": "There are only a few houses in my village.",
+    "arabic_translation": "قرية",
+    "arabic_definition": "القرية هي بلدة صغيرة جداً.",
+    "arabic_example": "لا يوجد سوى عدد قليل من المنازل في قريتي.",
+    "extra_meanings": [
+      {
+        "meaning": "سكان القرية",
+        "example": "اجتمعت القرية بأكملها للاحتفال."
+      }
+    ]
+  }
+]

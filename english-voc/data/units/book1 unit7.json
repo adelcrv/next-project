@@ -1,0 +1,318 @@
+[
+  {
+    "unit": 7,
+    "word": "allow",
+    "part_of_speech": "v.",
+    "definition": "To allow something to happen means to let it happen.",
+    "example": "Having a ticket will allow you to enter the show.",
+    "arabic_translation": "يسمح",
+    "arabic_definition": "السماح بحدوث شيء يعني تركه يحدث.",
+    "arabic_example": "امتلاك تذكرة سيسمح لك بدخول العرض.",
+    "extra_meanings": [
+      {
+        "meaning": "يخصص (مالاً أو وقتاً)",
+        "example": "يجب أن تخصص ساعة للغداء."
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "announce",
+    "part_of_speech": "v.",
+    "definition": "To announce something is to make it known.",
+    "example": "He announced to everyone his new idea for the company.",
+    "arabic_translation": "يعلن / يصرح",
+    "arabic_definition": "إعلان شيء ما هو جعله معروفاً للناس.",
+    "arabic_example": "أعلن للجميع فكرته الجديدة للشركة.",
+    "extra_meanings": [
+      {
+        "meaning": "يذيع (في التلفاز أو الراديو)",
+        "example": "المذيع أذاع الأخبار العاجلة."
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "beside",
+    "part_of_speech": "prep.",
+    "definition": "When someone or something is beside you, they are next to you.",
+    "example": "The two brothers stood beside each other.",
+    "arabic_translation": "بجانب",
+    "arabic_definition": "عندما يكون شخص أو شيء بجانبك، فهو بقربك.",
+    "arabic_example": "وقف الشقيقان بجانب بعضهما البعض.",
+    "extra_meanings": [
+      {
+        "meaning": "بالمقارنة مع",
+        "example": "مشكلتي تبدو صغيرة بجانب مشكلتك."
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "challenge",
+    "part_of_speech": "n.",
+    "definition": "A challenge is something difficult to complete.",
+    "example": "It was a challenge to climb to the top of the mountain.",
+    "arabic_translation": "تحدي",
+    "arabic_definition": "التحدي هو أمر صعب إتمامه.",
+    "arabic_example": "كان تسلق قمة الجبل تحدياً.",
+    "extra_meanings": [
+      {
+        "meaning": "يتحدى (فعل)",
+        "example": "أتحداك أن تسبقني في السباق."
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "claim",
+    "part_of_speech": "v.",
+    "definition": "To claim means to say that something is true.",
+    "example": "He claimed to know why the country’s laws were weak.",
+    "arabic_translation": "يدعي / يزعم",
+    "arabic_definition": "الادعاء يعني قول أن شيئاً ما صحيح (دون دليل قاطع عادة).",
+    "arabic_example": "ادعى معرفة سبب ضعف قوانين البلاد.",
+    "extra_meanings": [
+      {
+        "meaning": "يطالب (بحق)",
+        "example": "طالب بتعويض عن الحادث."
+      },
+      {
+        "meaning": "يحصد (أرواحاً)",
+        "example": "الحرب حصدت آلاف الأرواح."
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "condition",
+    "part_of_speech": "n.",
+    "definition": "The condition of someone or something is the state that they are in.",
+    "example": "The patient’s condition was very good.",
+    "arabic_translation": "حالة / وضع",
+    "arabic_definition": "حالة شخص أو شيء هي الوضع الذي هم عليه.",
+    "arabic_example": "كانت حالة المريض جيدة جداً.",
+    "extra_meanings": [
+      {
+        "meaning": "شرط",
+        "example": "لدي شرط واحد قبل أن أقبل."
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "contribute",
+    "part_of_speech": "v.",
+    "definition": "To contribute to something means to do something to make it successful.",
+    "example": "We decided to contribute money to the new hospital.",
+    "arabic_translation": "يساهم / يتبرع",
+    "arabic_definition": "المساهمة في شيء تعني فعل شيء لجعله ناجحاً.",
+    "arabic_example": "قررنا التبرع بالمال للمستشفى الجديد.",
+    "extra_meanings": [
+      {
+        "meaning": "يشارك (بفكرة أو رأي)",
+        "example": "ساهمت بأفكار جيدة في الاجتماع."
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "difference",
+    "part_of_speech": "n.",
+    "definition": "A difference is a way that something is not like other things.",
+    "example": "The biggest difference between the birds is the color of their feathers.",
+    "arabic_translation": "اختلاف / فرق",
+    "arabic_definition": "الاختلاف هو الطريقة التي لا يشبه بها شيء الأشياء الأخرى.",
+    "arabic_example": "أكبر فرق بين الطيور هو لون ريشها.",
+    "extra_meanings": [
+      {
+        "meaning": "خلاف (نزاع)",
+        "example": "يجب أن نحل خلافاتنا ودياً."
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "divide",
+    "part_of_speech": "v.",
+    "definition": "To divide something is to make it into smaller parts.",
+    "example": "We divided the pizza.",
+    "arabic_translation": "يقسم",
+    "arabic_definition": "تقسيم شيء ما هو تجزئته إلى أجزاء أصغر.",
+    "arabic_example": "قمنا بتقسيم البيتزا.",
+    "extra_meanings": [
+      {
+        "meaning": "يفرق (بين الناس)",
+        "example": "السياسة تفرق بين الأصدقاء أحياناً."
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "expert",
+    "part_of_speech": "n.",
+    "definition": "An expert is someone who is very good at doing something.",
+    "example": "The wizard was an expert at magic.",
+    "arabic_translation": "خبير",
+    "arabic_definition": "الخبير هو شخص ماهر جداً في فعل شيء ما.",
+    "arabic_example": "كان الساحر خبيراً في السحر.",
+    "extra_meanings": [
+      {
+        "meaning": "مختص (صفة)",
+        "example": "نحتاج إلى رأي مختص."
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "famous",
+    "part_of_speech": "adj.",
+    "definition": "If someone or something is famous, they are known to many people.",
+    "example": "The Eiffel Tower in Paris is very famous.",
+    "arabic_translation": "مشهور",
+    "arabic_definition": "إذا كان شخص أو شيء مشهوراً، فهو معروف لدى كثير من الناس.",
+    "arabic_example": "برج إيفل في باريس مشهور جداً.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 7,
+    "word": "force",
+    "part_of_speech": "n.",
+    "definition": "Force is a person’s strength or power.",
+    "example": "He used all his force to try and open the door.",
+    "arabic_translation": "قوة",
+    "arabic_definition": "القوة هي شدة الشخص أو طاقته البدنية.",
+    "arabic_example": "استخدم كل قوته لمحاولة فتح الباب.",
+    "extra_meanings": [
+      {
+        "meaning": "يجبر / يرغم (فعل)",
+        "example": "لا تجبرني على الذهاب."
+      },
+      {
+        "meaning": "قوة (عسكرية أو شرطية)",
+        "example": "انضمت قوات الشرطة للبحث."
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "harm",
+    "part_of_speech": "n.",
+    "definition": "Harm is hurt or problems caused to someone or something.",
+    "example": "A hot iron can cause great harm if you are not careful.",
+    "arabic_translation": "أذى / ضرر",
+    "arabic_definition": "الأذى هو الألم أو المشاكل التي تلحق بشخص أو شيء.",
+    "arabic_example": "المكواة الساخنة يمكن أن تسبب ضرراً كبيراً إذا لم تكن حذراً.",
+    "extra_meanings": [
+      {
+        "meaning": "يؤذي (فعل)",
+        "example": "لن أؤذيك أبداً."
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "lay",
+    "part_of_speech": "v.",
+    "definition": "To lay means to put or place in a horizontal or flat position.",
+    "example": "Don’t lay your socks on the floor.",
+    "arabic_translation": "يضع (بشكل مسطح)",
+    "arabic_definition": "الوضع يعني وضع الشيء في وضع أفقي أو مسطح.",
+    "arabic_example": "لا تضع جواربك على الأرض.",
+    "extra_meanings": [
+      {
+        "meaning": "تبيض (الطيور)",
+        "example": "الدجاجة تبيض البيض كل يوم."
+      },
+      {
+        "meaning": "يجهز (المائدة)",
+        "example": "ساعدني في تجهيز المائدة."
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "peace",
+    "part_of_speech": "n.",
+    "definition": "Peace is a time without war.",
+    "example": "A white dove is a symbol for peace.",
+    "arabic_translation": "سلام",
+    "arabic_definition": "السلام هو الوقت الخالي من الحرب.",
+    "arabic_example": "الحمامة البيضاء رمز للسلام.",
+    "extra_meanings": [
+      {
+        "meaning": "طمأنينة / سكينة",
+        "example": "أبحث عن راحة البال والسكينة."
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "prince",
+    "part_of_speech": "n.",
+    "definition": "A prince is the son of a king.",
+    "example": "The prince and the princess were married.",
+    "arabic_translation": "أمير",
+    "arabic_definition": "الأمير هو ابن الملك.",
+    "arabic_example": "تزوج الأمير والأميرة.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 7,
+    "word": "protect",
+    "part_of_speech": "v.",
+    "definition": "To protect someone is to stop them from getting hurt.",
+    "example": "Firemen protect us from fires.",
+    "arabic_translation": "يحمي",
+    "arabic_definition": "حماية شخص ما هي منعه من التعرض للأذى.",
+    "arabic_example": "رجال الإطفاء يحموننا من الحرائق.",
+    "extra_meanings": [
+      {
+        "meaning": "يصون / يحافظ",
+        "example": "يجب أن نحافظ على البيئة."
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "sense",
+    "part_of_speech": "v.",
+    "definition": "To sense something is to know about it without being told.",
+    "example": "I could sense that he was watching me.",
+    "arabic_translation": "يشعر بـ / يحس",
+    "arabic_definition": "الإحساس بشيء هو معرفته أو الشعور به دون أن يخبرك أحد.",
+    "arabic_example": "استطعت أن أشعر بأنه كان يراقبني.",
+    "extra_meanings": [
+      {
+        "meaning": "حاسة (اسم)",
+        "example": "الشم هو حاسة مهمة."
+      },
+      {
+        "meaning": "منطق / عقلانية",
+        "example": "كلامه ليس فيه أي منطق."
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "sudden",
+    "part_of_speech": "adj.",
+    "definition": "When something is sudden, it happens very quickly.",
+    "example": "He felt a sudden pain in his chest.",
+    "arabic_translation": "مفاجئ",
+    "arabic_definition": "عندما يكون الشيء مفاجئاً، فإنه يحدث بسرعة كبيرة وغير متوقعة.",
+    "arabic_example": "شعر بألم مفاجئ في صدره.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 7,
+    "word": "therefore",
+    "part_of_speech": "adv.",
+    "definition": "Therefore means for this reason.",
+    "example": "He is fat. Therefore, he will go on a diet.",
+    "arabic_translation": "لذلك / بناءً على ذلك",
+    "arabic_definition": "تعني لهذا السبب أو كنتيجة لذلك.",
+    "arabic_example": "هو بدين. لذلك، سيبدأ حمية غذائية.",
+    "extra_meanings": []
+  }
+]

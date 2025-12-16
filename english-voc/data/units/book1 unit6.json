@@ -1,0 +1,350 @@
+[
+  {
+    "unit": 6,
+    "word": "advantage",
+    "part_of_speech": "n.",
+    "definition": "An advantage is something that helps you.",
+    "example": "Being tall is an advantage to a basketball player.",
+    "arabic_translation": "ميزة / أفضلية",
+    "arabic_definition": "الميزة هي شيء يساعدك أو يمنحك الأفضلية.",
+    "arabic_example": "كونك طويل القامة هو ميزة للاعب كرة السلة.",
+    "extra_meanings": [
+      {
+        "meaning": "يستغل (يستفيد من)",
+        "example": "يجب عليك استغلال هذه الفرصة."
+      }
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "cause",
+    "part_of_speech": "v.",
+    "definition": "To cause is to make something happen.",
+    "example": "The cold weather caused her to get sick.",
+    "arabic_translation": "يسبب / يُحدث",
+    "arabic_definition": "التسبب هو جعل شيء ما يحدث.",
+    "arabic_example": "تسبب الطقس البارد في مرضها.",
+    "extra_meanings": [
+      {
+        "meaning": "سبب (اسم)",
+        "example": "ما هو سبب الحريق؟"
+      },
+      {
+        "meaning": "قضية (مبدأ)",
+        "example": "إنه يقاتل من أجل قضية نبيلة."
+      }
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "choice",
+    "part_of_speech": "n.",
+    "definition": "A choice is the act or possibility of picking something.",
+    "example": "I had my choice of five doors to open.",
+    "arabic_translation": "خيار / اختيار",
+    "arabic_definition": "الاختيار هو فعل أو إمكانية انتقاء شيء ما.",
+    "arabic_example": "كان لدي الخيار لفتح واحد من خمسة أبواب.",
+    "extra_meanings": [
+      {
+        "meaning": "نخبة / صفوة",
+        "example": "هذا من خيار الناس."
+      }
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "community",
+    "part_of_speech": "n.",
+    "definition": "A community is a group of people who live together.",
+    "example": "The kids from my community usually play together.",
+    "arabic_translation": "مجتمع (محلي)",
+    "arabic_definition": "المجتمع هو مجموعة من الناس يعيشون معاً في منطقة واحدة.",
+    "arabic_example": "عادة ما يلعب أطفال مجتمعي معاً.",
+    "extra_meanings": [
+      {
+        "meaning": "جالية",
+        "example": "الجالية العربية في لندن كبيرة."
+      }
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "dead",
+    "part_of_speech": "adj.",
+    "definition": "To be dead is to not be alive.",
+    "example": "A dead person is usually buried in the ground.",
+    "arabic_translation": "ميت",
+    "arabic_definition": "أن تكون ميتاً يعني أنك لست على قيد الحياة.",
+    "arabic_example": "عادة ما يُدفن الشخص الميت في الأرض.",
+    "extra_meanings": [
+      {
+        "meaning": "مُهلك / تام (للصمت)",
+        "example": "كان هناك صمت مطبق في الغرفة."
+      },
+      {
+        "meaning": "عطلان (بطارية)",
+        "example": "بطارية هاتفي ميتة."
+      }
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "distance",
+    "part_of_speech": "n.",
+    "definition": "The distance between two things is how far it is between them.",
+    "example": "The distance between the Earth and the Moon is 384,400 kilometers.",
+    "arabic_translation": "مسافة / بُعد",
+    "arabic_definition": "المسافة بين شيئين هي مدى بعدهما عن بعضهما البعض.",
+    "arabic_example": "المسافة بين الأرض والقمر هي 384,400 كيلومتر.",
+    "extra_meanings": [
+      {
+        "meaning": "مسافة (مجازية / تحفظ)",
+        "example": "احتفظ بمسافة بينك وبين المشاكل."
+      }
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "escape",
+    "part_of_speech": "v.",
+    "definition": "To escape is to run away from something bad.",
+    "example": "The butterfly could not escape from the cage.",
+    "arabic_translation": "يهرب / يفر",
+    "arabic_definition": "الهروب هو الجري بعيداً عن شيء سيء أو الإفلات منه.",
+    "arabic_example": "لم تستطع الفراشة الهروب من القفص.",
+    "extra_meanings": [
+      {
+        "meaning": "ينجو (من خطر)",
+        "example": "نجا من الحادث بأعجوبة."
+      }
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "face",
+    "part_of_speech": "v.",
+    "definition": "If you face a problem, you deal with it.",
+    "example": "My sister and I have to find a better way to face our differences.",
+    "arabic_translation": "يواجه",
+    "arabic_definition": "إذا واجهت مشكلة، فأنت تتعامل معها.",
+    "arabic_example": "أنا وأختي يجب أن نجد طريقة أفضل لمواجهة خلافاتنا.",
+    "extra_meanings": [
+      {
+        "meaning": "وجه (اسم)",
+        "example": "لديها وجه جميل."
+      },
+      {
+        "meaning": "يطل على (مبنى)",
+        "example": "غرفتي تطل على البحر."
+      }
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "follow",
+    "part_of_speech": "v.",
+    "definition": "To follow means to go behind someone and go where they go.",
+    "example": "The little boy followed his mother home.",
+    "arabic_translation": "يتبع / يلحق بـ",
+    "arabic_definition": "المتابعة تعني السير خلف شخص ما والذهاب إلى حيث يذهب.",
+    "arabic_example": "تبع الصبي الصغير والدته إلى المنزل.",
+    "extra_meanings": [
+      {
+        "meaning": "يتبع (التعليمات)",
+        "example": "يجب عليك اتباع القواعد."
+      },
+      {
+        "meaning": "يفهم (حديثاً)",
+        "example": "أنا لا أتابع ما تقوله (لا أفهمك)."
+      }
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "fright",
+    "part_of_speech": "n.",
+    "definition": "Fright is the feeling of being scared.",
+    "example": "She was filled with fright.",
+    "arabic_translation": "فزع / رعب",
+    "arabic_definition": "الفزع هو الشعور بالخوف.",
+    "arabic_example": "كانت مليئة بالفزع.",
+    "extra_meanings": [
+      {
+        "meaning": "منظر مضحك (مظهر)",
+        "example": "تبدو كفزع بهذا الشعر الفوضوي."
+      }
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "ghost",
+    "part_of_speech": "n.",
+    "definition": "A ghost is the spirit of a dead person.",
+    "example": "Many people are afraid of ghosts.",
+    "arabic_translation": "شبح",
+    "arabic_definition": "الشبح هو روح شخص ميت.",
+    "arabic_example": "كثير من الناس يخافون من الأشباح.",
+    "extra_meanings": [
+      {
+        "meaning": "أثر طفيف",
+        "example": "لم يكن هناك شبح ابتسامة على وجهه."
+      }
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "individual",
+    "part_of_speech": "n.",
+    "definition": "An individual is one person.",
+    "example": "Only one individual could win the bicycle race.",
+    "arabic_translation": "فرد / شخص",
+    "arabic_definition": "الفرد هو شخص واحد.",
+    "arabic_example": "فرد واحد فقط يمكنه الفوز بسباق الدراجات.",
+    "extra_meanings": [
+      {
+        "meaning": "فردي (صفة)",
+        "example": "لكل طالب احتياجات فردية."
+      }
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "pet",
+    "part_of_speech": "n.",
+    "definition": "A pet is an animal that lives with people.",
+    "example": "Out of all my pets, the dog is my favorite.",
+    "arabic_translation": "حيوان أليف",
+    "arabic_definition": "الحيوان الأليف هو حيوان يعيش مع الناس.",
+    "arabic_example": "من بين كل حيواناتي الأليفة، الكلب هو المفضل لدي.",
+    "extra_meanings": [
+      {
+        "meaning": "يدلل / يمسح على (فعل)",
+        "example": "الأطفال يحبون أن يمسحوا على القطط."
+      }
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "reach",
+    "part_of_speech": "v.",
+    "definition": "To reach means to arrive at a place.",
+    "example": "I was happy to finally reach my destination.",
+    "arabic_translation": "يصل إلى / يبلغ",
+    "arabic_definition": "الوصول يعني البلوغ إلى مكان ما.",
+    "arabic_example": "كنت سعيداً بالوصول أخيراً إلى وجهتي.",
+    "extra_meanings": [
+      {
+        "meaning": "يمد يده",
+        "example": "مد يده ليمسك بالكتاب."
+      },
+      {
+        "meaning": "يتناول (شيئاً بيده)",
+        "example": "هل يمكنك أن تناولني الملح؟"
+      }
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "return",
+    "part_of_speech": "v.",
+    "definition": "To return is to go back to a place.",
+    "example": "I was happy to return home to my mom after school.",
+    "arabic_translation": "يعود / يرجع",
+    "arabic_definition": "العودة هي الرجوع إلى مكان ما.",
+    "arabic_example": "كنت سعيداً بالعودة إلى المنزل لأمي بعد المدرسة.",
+    "extra_meanings": [
+      {
+        "meaning": "يُعيد (شيئاً)",
+        "example": "يجب أن أعيد الكتاب إلى المكتبة."
+      },
+      {
+        "meaning": "عائد (ربح)",
+        "example": "عائد الاستثمار كان جيداً."
+      }
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "survive",
+    "part_of_speech": "v.",
+    "definition": "To survive is to stay alive.",
+    "example": "My dog survived her fall into the water.",
+    "arabic_translation": "ينجو / يبقى حياً",
+    "arabic_definition": "النجاة هي البقاء على قيد الحياة.",
+    "arabic_example": "نجت كلبتي من سقوطها في الماء.",
+    "extra_meanings": [
+      {
+        "meaning": "يعيش أطول من",
+        "example": "الزوجة عاشت أطول من زوجها بخمس سنوات."
+      }
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "upset",
+    "part_of_speech": "adj.",
+    "definition": "To be upset is to be unhappy about something.",
+    "example": "She was upset because she broke her toy.",
+    "arabic_translation": "منزعج / متضايق",
+    "arabic_definition": "أن تكون منزعجاً يعني أن تكون غير سعيد بشأن شيء ما.",
+    "arabic_example": "كانت منزعجة لأنها كسرت لعبتها.",
+    "extra_meanings": [
+      {
+        "meaning": "يقلب / يسكب (فعل)",
+        "example": "احذر أن تقلب كوب الماء."
+      },
+      {
+        "meaning": "اضطراب (في المعدة)",
+        "example": "لديه اضطراب في المعدة."
+      }
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "voice",
+    "part_of_speech": "n.",
+    "definition": "A voice is the sound a person makes when they talk or sing.",
+    "example": "He used a microphone, so everyone could hear his voice.",
+    "arabic_translation": "صوت (إنسان)",
+    "arabic_definition": "الصوت هو ما يصدره الشخص عندما يتحدث أو يغني.",
+    "arabic_example": "استخدم ميكروفوناً حتى يتمكن الجميع من سماع صوته.",
+    "extra_meanings": [
+      {
+        "meaning": "يعبر عن (رأي - فعل)",
+        "example": "عبر عن قلقه بشأن المشروع."
+      }
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "weather",
+    "part_of_speech": "n.",
+    "definition": "The weather is the condition of the air: hot, rainy, windy, etc.",
+    "example": "The weather can be sunny, rainy, or cold.",
+    "arabic_translation": "الطقس / الجو",
+    "arabic_definition": "الطقس هو حالة الجو: حار، ممطر، عاصف، إلخ.",
+    "arabic_example": "يمكن أن يكون الطقس مشمساً، ممطراً، أو بارداً.",
+    "extra_meanings": [
+      {
+        "meaning": "يصمد / يتجاوز (أزمة)",
+        "example": "ستصمد الشركة أمام العاصفة الاقتصادية."
+      }
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "wise",
+    "part_of_speech": "adj.",
+    "definition": "To be wise is to use experience and intelligence to make good choices.",
+    "example": "Many people believe that owls are very wise animals.",
+    "arabic_translation": "حكيم",
+    "arabic_definition": "أن تكون حكيماً يعني استخدام الخبرة والذكاء لاتخاذ خيارات جيدة.",
+    "arabic_example": "يعتقد الكثير من الناس أن البوم حيوانات حكيمة جداً.",
+    "extra_meanings": [
+      {
+        "meaning": "طريقة / أسلوب (لاحقة)",
+        "example": "تحرك في اتجاه عقارب الساعة (Clockwise)."
+      }
+    ]
+  }
+]

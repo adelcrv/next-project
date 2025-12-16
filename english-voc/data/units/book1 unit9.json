@@ -1,0 +1,302 @@
+[
+  {
+    "unit": 9,
+    "word": "against",
+    "part_of_speech": "prep.",
+    "definition": "To be against something is to be touching it or opposed to it.",
+    "example": "They both leaned against the wall.",
+    "arabic_translation": "مسنوداً على / مقابل",
+    "arabic_definition": "أن تكون مقابل شيء ما يعني أن تلامسه أو تكون في مواجهته.",
+    "arabic_example": "كلاهما استندا على الحائط.",
+    "extra_meanings": [
+      {
+        "meaning": "ضد (في الرأي أو المنافسة)",
+        "example": "أنا ضد هذا القرار."
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "word": "beach",
+    "part_of_speech": "n.",
+    "definition": "The beach is a sandy or rocky place by the ocean.",
+    "example": "The little girl built a sandcastle on the beach.",
+    "arabic_translation": "شاطئ",
+    "arabic_definition": "الشاطئ هو مكان رملي أو صخري بجانب المحيط.",
+    "arabic_example": "بنت الفتاة الصغيرة قلعة رملية على الشاطئ.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 9,
+    "word": "damage",
+    "part_of_speech": "v.",
+    "definition": "To damage something is to break it.",
+    "example": "The car was damaged in the accident.",
+    "arabic_translation": "يُتلف / يلحق الضرر",
+    "arabic_definition": "إتلاف شيء ما هو كسره أو إلحاق الأذى به.",
+    "arabic_example": "تضررت السيارة في الحادث.",
+    "extra_meanings": [
+      {
+        "meaning": "ضرر (اسم)",
+        "example": "تسبب العاصفة في ضرر كبير."
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "word": "discover",
+    "part_of_speech": "v.",
+    "definition": "To discover something is to find it for the first time.",
+    "example": "I discovered some new information in this book!",
+    "arabic_translation": "يكتشف",
+    "arabic_definition": "اكتشاف شيء ما هو العثور عليه لأول مرة.",
+    "arabic_example": "اكتشفت بعض المعلومات الجديدة في هذا الكتاب!",
+    "extra_meanings": [
+      {
+        "meaning": "يدرك (حقيقة)",
+        "example": "اكتشفت لاحقاً أنه كان يكذب."
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "word": "emotion",
+    "part_of_speech": "n.",
+    "definition": "An emotion is how you feel.",
+    "example": "Anger is a common emotion that we all feel.",
+    "arabic_translation": "عاطفة / شعور",
+    "arabic_definition": "العاطفة هي ما تشعر به.",
+    "arabic_example": "الغضب هو شعور شائع نشعر به جميعاً.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 9,
+    "word": "fix",
+    "part_of_speech": "v.",
+    "definition": "To fix something is to make it work.",
+    "example": "My dad has many tools to help him fix broken things.",
+    "arabic_translation": "يصلح",
+    "arabic_definition": "إصلاح شيء ما هو جعله يعمل مرة أخرى.",
+    "arabic_example": "والدي لديه العديد من الأدوات لمساعدته في إصلاح الأشياء المكسورة.",
+    "extra_meanings": [
+      {
+        "meaning": "يحدد (موعداً)",
+        "example": "دعنا نحدد وقتاً للاجتماع."
+      },
+      {
+        "meaning": "يثبت",
+        "example": "ثبت اللوحة على الحائط."
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "word": "frank",
+    "part_of_speech": "adj.",
+    "definition": "If you are frank, you are being very honest.",
+    "example": "The teacher had a frank discussion with her students.",
+    "arabic_translation": "صريح",
+    "arabic_definition": "إذا كنت صريحاً، فأنت تكون صادقاً جداً.",
+    "arabic_example": "أجرت المعلمة مناقشة صريحة مع طلابها.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 9,
+    "word": "identify",
+    "part_of_speech": "v.",
+    "definition": "To identify something is to be able to name it.",
+    "example": "I used the file to identify his name.",
+    "arabic_translation": "يتعرف على / يحدد هوية",
+    "arabic_definition": "تحديد هوية شيء ما هو القدرة على تسميته أو معرفته.",
+    "arabic_example": "استخدمت الملف للتعرف على اسمه.",
+    "extra_meanings": [
+      {
+        "meaning": "يتماهى مع / يشعر بالارتباط",
+        "example": "القراء يتماهون مع بطل الرواية."
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "word": "island",
+    "part_of_speech": "n.",
+    "definition": "An island is land in the middle of water.",
+    "example": "Japan is a group of islands.",
+    "arabic_translation": "جزيرة",
+    "arabic_definition": "الجزيرة هي أرض وسط الماء.",
+    "arabic_example": "اليابان عبارة عن مجموعة من الجزر.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 9,
+    "word": "ocean",
+    "part_of_speech": "n.",
+    "definition": "The ocean is all of the salt water that surrounds land.",
+    "example": "The ocean can make powerful waves.",
+    "arabic_translation": "محيط",
+    "arabic_definition": "المحيط هو كل المياه المالحة التي تحيط باليابسة.",
+    "arabic_example": "يمكن للمحيط أن يصنع أمواجاً قوية.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 9,
+    "word": "perhaps",
+    "part_of_speech": "adv.",
+    "definition": "Perhaps is used when you say that something could happen.",
+    "example": "Perhaps I will eat an apple for lunch.",
+    "arabic_translation": "ربما / لعل",
+    "arabic_definition": "تستخدم عندما تقول أن شيئاً ما قد يحدث.",
+    "arabic_example": "ربما سآكل تفاحة على الغداء.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 9,
+    "word": "pleasant",
+    "part_of_speech": "adj.",
+    "definition": "If something is pleasant, you enjoy it.",
+    "example": "The character had a pleasant look on its face.",
+    "arabic_translation": "سار / لطيف / ممتع",
+    "arabic_definition": "إذا كان الشيء ساراً، فأنت تستمتع به.",
+    "arabic_example": "كان للشخصية نظرة لطيفة على وجهها.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 9,
+    "word": "prevent",
+    "part_of_speech": "v.",
+    "definition": "To prevent something is to stop it from happening.",
+    "example": "The handcuffs prevented me from moving my hands.",
+    "arabic_translation": "يمنع / يحول دون",
+    "arabic_definition": "منع شيء ما هو إيقافه عن الحدوث.",
+    "arabic_example": "الأصفاد منعتني من تحريك يدي.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 9,
+    "word": "rock",
+    "part_of_speech": "n.",
+    "definition": "A rock is a hard thing in the dirt.",
+    "example": "I stacked rocks on top of one another.",
+    "arabic_translation": "صخرة / حجر",
+    "arabic_definition": "الصخرة هي شيء صلب موجود في التراب.",
+    "arabic_example": "كدست الصخور فوق بعضها البعض.",
+    "extra_meanings": [
+      {
+        "meaning": "موسيقى الروك",
+        "example": "هو يحب الاستماع إلى موسيقى الروك."
+      },
+      {
+        "meaning": "يهز / يتأرجح (فعل)",
+        "example": "الأم تهز الطفل لينام."
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "word": "save",
+    "part_of_speech": "v.",
+    "definition": "To save something is to keep it from being hurt.",
+    "example": "I want to help save the world.",
+    "arabic_translation": "ينقذ / يحمي",
+    "arabic_definition": "إنقاذ شيء ما هو حمايته من الأذى.",
+    "arabic_example": "أريد المساعدة في إنقاذ العالم.",
+    "extra_meanings": [
+      {
+        "meaning": "يوفر / يدخر (مالاً)",
+        "example": "أنا أدخر المال لشراء سيارة."
+      },
+      {
+        "meaning": "يحفظ (ملفاً)",
+        "example": "لا تنس أن تحفظ عملك على الكمبيوتر."
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "word": "step",
+    "part_of_speech": "v.",
+    "definition": "To step is to walk.",
+    "example": "Be careful where you step.",
+    "arabic_translation": "يخطو / يضع قدمه",
+    "arabic_definition": "أن تخطو يعني أن تمشي.",
+    "arabic_example": "كن حذراً أين تضع قدمك.",
+    "extra_meanings": [
+      {
+        "meaning": "خطوة (اسم)",
+        "example": "اتخذ خطوة للأمام."
+      },
+      {
+        "meaning": "درجة (سلم)",
+        "example": "جلس على درجة السلم."
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "word": "still",
+    "part_of_speech": "adv.",
+    "definition": "Still is used when you say that a situation keeps going on.",
+    "example": "They are still waiting in line to get tickets.",
+    "arabic_translation": "لا يزال / ما زال",
+    "arabic_definition": "تستخدم للقول بأن وضعاً ما مستمر في الحدوث.",
+    "arabic_example": "ما زالوا ينتظرون في الطابور للحصول على التذاكر.",
+    "extra_meanings": [
+      {
+        "meaning": "ساكن / هامِد (بدون حراك)",
+        "example": "قف ساكناً من فضلك."
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "word": "taste",
+    "part_of_speech": "n.",
+    "definition": "A taste is the flavor something makes in your mouth.",
+    "example": "The taste of the fruit was sweet.",
+    "arabic_translation": "طعم / مذاق",
+    "arabic_definition": "الطعم هو النكهة التي يُحدثها الشيء في فمك.",
+    "arabic_example": "كان طعم الفاكهة حلواً.",
+    "extra_meanings": [
+      {
+        "meaning": "يتذوق (فعل)",
+        "example": "هل يمكنك تذوق الحساء؟"
+      },
+      {
+        "meaning": "ذوق (في الاختيار)",
+        "example": "لديها ذوق رفيع في الملابس."
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "word": "throw",
+    "part_of_speech": "v.",
+    "definition": "To throw something is to use your hand to make it go through the air.",
+    "example": "The pitcher can throw the baseball very fast.",
+    "arabic_translation": "يرمي / يقذف",
+    "arabic_definition": "رمي شيء ما هو استخدام يدك لجعله يطير في الهواء.",
+    "arabic_example": "يمكن للرامي أن يرمي كرة البيسبول بسرعة كبيرة.",
+    "extra_meanings": [
+      {
+        "meaning": "يقيم (حفلة)",
+        "example": "سنقيم حفلة عيد ميلاد له."
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "word": "wave",
+    "part_of_speech": "n.",
+    "definition": "A wave is a line of water that moves higher than the rest of the water.",
+    "example": "The water was filled with large blue waves.",
+    "arabic_translation": "موجة",
+    "arabic_definition": "الموجة هي خط من الماء يتحرك أعلى من بقية الماء.",
+    "arabic_example": "كان الماء مليئاً بالأمواج الزرقاء الكبيرة.",
+    "extra_meanings": [
+      {
+        "meaning": "يلوح (بيده - فعل)",
+        "example": "لوح بيده ليقول وداعاً."
+      }
+    ]
+  }
+]

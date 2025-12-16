@@ -1,0 +1,342 @@
+[
+  {
+    "unit": 1,
+    "word": "afraid",
+    "part_of_speech": "adj.",
+    "definition": "When someone is afraid, they feel fear.",
+    "example": "The woman was afraid of what she saw.",
+    "arabic_translation": "خائف",
+    "arabic_definition": "عندما يكون شخص ما خائفاً، فإنه يشعر بالرعب.",
+    "arabic_example": "كانت المرأة خائفة مما رأته.",
+    "extra_meanings": [
+      {
+        "meaning": "يخشى (قلق من شيء ما)",
+        "example": "أخشى أنني لا أستطيع مساعدتك."
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "agree",
+    "part_of_speech": "v.",
+    "definition": "To agree is to say \"yes\" or to think the same way.",
+    "example": "A: The food is very good in that restaurant. B: I agree with you.",
+    "arabic_translation": "يوافق / يتفق",
+    "arabic_definition": "أن تقول \"نعم\" أو تفكر بنفس الطريقة.",
+    "arabic_example": "أ: الطعام جيد جداً في ذلك المطعم. ب: أنا أتفق معك.",
+    "extra_meanings": [
+      {
+        "meaning": "يقبل (عرضاً أو شرطاً)",
+        "example": "وافقوا على شروط العقد."
+      },
+      {
+        "meaning": "يلائم (الطعام)",
+        "example": "هذا الطعام لا يلائم معدتي."
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "angry",
+    "part_of_speech": "adj.",
+    "definition": "When someone is angry, they may want to speak loudly or fight.",
+    "example": "She didn't do her homework, so her father is angry.",
+    "arabic_translation": "غاضب",
+    "arabic_definition": "عندما يكون شخص ما غاضباً، قد يرغب في التحدث بصوت عالٍ أو القتال.",
+    "arabic_example": "لم تقم بواجبها المدرسي، لذا والدها غاضب.",
+    "extra_meanings": [
+      {
+        "meaning": "هائج (للجرح أو الطقس)",
+        "example": "السماء تبدو هائجة وعاصفة."
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "arrive",
+    "part_of_speech": "v.",
+    "definition": "To arrive is to get to or reach some place.",
+    "example": "The bus always arrives at the corner of my street at 4:00.",
+    "arabic_translation": "يصل",
+    "arabic_definition": "الوصول هو الذهاب إلى مكان ما أو بلوغه.",
+    "arabic_example": "الحافلة تصل دائماً إلى زاوية شارعي في الساعة 4:00.",
+    "extra_meanings": [
+      {
+        "meaning": "يحقق نجاحاً",
+        "example": "لقد وصل أخيراً وحقق الشهرة."
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "attack",
+    "part_of_speech": "v.",
+    "definition": "To attack is to try to fight or to hurt.",
+    "example": "The man with the sword attacked the other man first.",
+    "arabic_translation": "يهاجم",
+    "arabic_definition": "الهجوم هو محاولة القتال أو الإيذاء.",
+    "arabic_example": "الرجل الذي يحمل السيف هاجم الرجل الآخر أولاً.",
+    "extra_meanings": [
+      {
+        "meaning": "نوبة (مرضية)",
+        "example": "أصيب بنوبة قلبية."
+      },
+      {
+        "meaning": "ينتقد (بشدة)",
+        "example": "هاجمت الصحافة الوزير الجديد."
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "bottom",
+    "part_of_speech": "n.",
+    "definition": "The bottom is the lowest part.",
+    "example": "The bottom of my shoe has a hole in it.",
+    "arabic_translation": "أسفل / قاع",
+    "arabic_definition": "القاع هو الجزء الأدنى من الشيء.",
+    "arabic_example": "أسفل حذائي به ثقب.",
+    "extra_meanings": [
+      {
+        "meaning": "مؤخرة (جسم)",
+        "example": "سقط الطفل على مؤخرته."
+      },
+      {
+        "meaning": "أصل (المشكلة)",
+        "example": "يجب أن نصل إلى أصل المشكلة."
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "clever",
+    "part_of_speech": "adj.",
+    "definition": "When someone is clever, they can solve a hard puzzle or problem.",
+    "example": "The clever boy thought of a good idea.",
+    "arabic_translation": "ذكي / بارع",
+    "arabic_definition": "عندما يكون شخص ما ذكياً، يمكنه حل لغز أو مشكلة صعبة.",
+    "arabic_example": "فكر الصبي الذكي في فكرة جيدة.",
+    "extra_meanings": [
+      {
+        "meaning": "ماهر (يدوياً)",
+        "example": "إنه ماهر جداً بيده."
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "cruel",
+    "part_of_speech": "adj.",
+    "definition": "When someone is cruel, they do bad things to hurt others.",
+    "example": "The cruel man yelled at his sister.",
+    "arabic_translation": "قاسٍ",
+    "arabic_definition": "عندما يكون شخص ما قاسياً، فإنه يفعل أشياء سيئة لإيذاء الآخرين.",
+    "arabic_example": "صرخ الرجل القاسي في وجه أخته.",
+    "extra_meanings": [
+      {
+        "meaning": "مؤلم (للغاية)",
+        "example": "كانت مزحة قاسية."
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "finally",
+    "part_of_speech": "adv.",
+    "definition": "If something happens finally, it happens after a long time or at the end.",
+    "example": "He finally crossed the finish line after five hours of running.",
+    "arabic_translation": "أخيراً",
+    "arabic_definition": "إذا حدث شيء أخيراً، فإنه يحدث بعد وقت طويل أو في النهاية.",
+    "arabic_example": "لقد عبر أخيراً خط النهاية بعد خمس ساعات من الجري.",
+    "extra_meanings": [
+      {
+        "meaning": "بشكل نهائي",
+        "example": "تم حل المسألة بشكل نهائي."
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "hide",
+    "part_of_speech": "v.",
+    "definition": "To hide is to try not to let others see you.",
+    "example": "The other children will hide while you count to 100.",
+    "arabic_translation": "يختبئ / يخفي",
+    "arabic_definition": "الاختباء هو محاولة ألا يراك الآخرون.",
+    "arabic_example": "سيختبئ الأطفال الآخرون بينما تعد أنت حتى 100.",
+    "extra_meanings": [
+      {
+        "meaning": "جلد حيوان (مدبوغ)",
+        "example": "صنع المعطف من جلد البقر."
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "hunt",
+    "part_of_speech": "v.",
+    "definition": "To hunt is to look for or search for an animal to kill.",
+    "example": "Long ago, people hunted with bows and arrows.",
+    "arabic_translation": "يصطاد",
+    "arabic_definition": "الصيد هو البحث عن حيوان لقتله.",
+    "arabic_example": "منذ زمن طويل، كان الناس يصطادون بالأقواس والسهام.",
+    "extra_meanings": [
+      {
+        "meaning": "يبحث عن (شيء ضائع)",
+        "example": "أنا أبحث عن مفاتيحي في كل مكان."
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "lot",
+    "part_of_speech": "n.",
+    "definition": "A lot means a large number or amount of people, animals, things, etc.",
+    "example": "There are a lot of apples in the basket.",
+    "arabic_translation": "الكثير",
+    "arabic_definition": "يعني عدداً كبيراً أو كمية كبيرة من الناس أو الحيوانات أو الأشياء.",
+    "arabic_example": "يوجد الكثير من التفاح في السلة.",
+    "extra_meanings": [
+      {
+        "meaning": "قطعة أرض",
+        "example": "سيقومون ببناء منزل على تلك القطعة."
+      },
+      {
+        "meaning": "نصيب / قدر",
+        "example": "هذا هو نصيبه في الحياة."
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "middle",
+    "part_of_speech": "n.",
+    "definition": "The middle of something is the center or halfway point.",
+    "example": "The Canadian flag has a maple leaf in the middle of it.",
+    "arabic_translation": "منتصف / وسط",
+    "arabic_definition": "الوسط هو المركز أو نقطة المنتصف لشيء ما.",
+    "arabic_example": "العلم الكندي يحتوي على ورقة القيقب في منتصفه.",
+    "extra_meanings": [
+      {
+        "meaning": "خصر",
+        "example": "أمسكها من وسطها."
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "moment",
+    "part_of_speech": "n.",
+    "definition": "A moment is a second or a very short time.",
+    "example": "I was only a few moments late for the meeting.",
+    "arabic_translation": "لحظة",
+    "arabic_definition": "اللحظة هي ثانية أو وقت قصير جداً.",
+    "arabic_example": "تأخرت بضع لحظات فقط عن الاجتماع.",
+    "extra_meanings": [
+      {
+        "meaning": "أهمية",
+        "example": "إنه قرار ذو أهمية كبيرة."
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "pleased",
+    "part_of_speech": "adj.",
+    "definition": "When someone is pleased, they are happy.",
+    "example": "She was pleased with the phone call she received.",
+    "arabic_translation": "مسرور / راضٍ",
+    "arabic_definition": "عندما يكون شخص ما مسروراً، فهو سعيد.",
+    "arabic_example": "كانت مسرورة بالمكالمة الهاتفية التي تلقتها.",
+    "extra_meanings": [
+      {
+        "meaning": "يرغب (يفعل ما يحلو له)",
+        "example": "يفعل ما يحلو له."
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "promise",
+    "part_of_speech": "v.",
+    "definition": "To promise is to say you will do something for sure.",
+    "example": "He promised to return my key by tomorrow.",
+    "arabic_translation": "يَعِد",
+    "arabic_definition": "الوعد هو قول أنك ستفعل شيئاً بالتأكيد.",
+    "arabic_example": "وعد بإعادة مفتاحي بحلول الغد.",
+    "extra_meanings": [
+      {
+        "meaning": "يبشر بـ (يدل على)",
+        "example": "السماء تبشر بيوم جميل."
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "reply",
+    "part_of_speech": "v.",
+    "definition": "To reply is to give an answer or say back to someone.",
+    "example": "She asked him what time his meeting was. He replied, \"at three.\"",
+    "arabic_translation": "يرد / يجيب",
+    "arabic_definition": "الرد هو إعطاء إجابة أو قول شيء رداً على شخص ما.",
+    "arabic_example": "سألته عن موعد اجتماعه، فأجاب: \"في الثالثة\".",
+    "extra_meanings": [
+      {
+        "meaning": "رد (اسم)",
+        "example": "أنتظر ردك على رسالتي."
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "safe",
+    "part_of_speech": "adj.",
+    "definition": "When a person is safe, they are not in danger.",
+    "example": "Put on your seat belt in the car to be safe.",
+    "arabic_translation": "آمن",
+    "arabic_definition": "عندما يكون الشخص آمناً، فهو ليس في خطر.",
+    "arabic_example": "ضع حزام الأمان في السيارة لتكون آمناً.",
+    "extra_meanings": [
+      {
+        "meaning": "خزنة (لحفظ المال)",
+        "example": "وضعنا المال في الخزنة."
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "trick",
+    "part_of_speech": "n.",
+    "definition": "A trick is something you do to fool another person.",
+    "example": "His card trick really surprised us.",
+    "arabic_translation": "خدعة / حيلة",
+    "arabic_definition": "الخدعة هي شيء تفعله لخداع شخص آخر.",
+    "arabic_example": "خدعة الورق التي قام بها فاجأتنا حقاً.",
+    "extra_meanings": [
+      {
+        "meaning": "يخدع (فعل)",
+        "example": "لا تحاول أن تخدعني."
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "well",
+    "part_of_speech": "adv.",
+    "definition": "You use well to say that something was done in a good way.",
+    "example": "The couple can dance quite well.",
+    "arabic_translation": "بشكل جيد / جيداً",
+    "arabic_definition": "تستخدم كلمة \"جيداً\" لتقول أن شيئاً ما تم بطريقة جيدة.",
+    "arabic_example": "الزوجان يرقصان بشكل جيد للغاية.",
+    "extra_meanings": [
+      {
+        "meaning": "بئر (ماء)",
+        "example": "استخرجوا الماء من البئر."
+      },
+      {
+        "meaning": "بصحة جيدة",
+        "example": "أنا لست بصحة جيدة اليوم."
+      }
+    ]
+  }
+]

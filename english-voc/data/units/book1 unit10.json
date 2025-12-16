@@ -1,0 +1,333 @@
+[
+  {
+    "unit": 10,
+    "word": "benefit",
+    "part_of_speech": "n.",
+    "definition": "A benefit is a good thing.",
+    "example": "Being able to fly is a good benefit to birds.",
+    "arabic_translation": "فائدة / ميزة",
+    "arabic_definition": "الفائدة هي شيء جيد أو إيجابي.",
+    "arabic_example": "القدرة على الطيران فائدة جيدة للطيور.",
+    "extra_meanings": [
+      {
+        "meaning": "يستفيد (فعل)",
+        "example": "استفدت كثيراً من هذه الدورة."
+      },
+      {
+        "meaning": "إعانة (مالية)",
+        "example": "يحصل العاطلون عن العمل على إعانة حكومية."
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "certain",
+    "part_of_speech": "adj.",
+    "definition": "If you are certain about something, you know it is true.",
+    "example": "I am certain that zebras have stripes.",
+    "arabic_translation": "متأكد / يقين",
+    "arabic_definition": "إذا كنت متأكداً من شيء ما، فأنت تعلم أنه حقيقي.",
+    "arabic_example": "أنا متأكد أن الحمير الوحشية لديها خطوط.",
+    "extra_meanings": [
+      {
+        "meaning": "معين / محدد",
+        "example": "يجب اتباع قواعد معينة."
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "chance",
+    "part_of_speech": "n.",
+    "definition": "A chance is an opportunity to do something.",
+    "example": "I had a chance to see the Roman Coliseum last summer.",
+    "arabic_translation": "فرصة",
+    "arabic_definition": "الفرصة هي وقت مناسب أو إمكانية للقيام بشيء ما.",
+    "arabic_example": "أتيحت لي فرصة لرؤية الكولوسيوم الروماني الصيف الماضي.",
+    "extra_meanings": [
+      {
+        "meaning": "صدفة",
+        "example": "التقينا عن طريق الصدفة."
+      },
+      {
+        "meaning": "احتمال",
+        "example": "هناك احتمال لسقوط المطر."
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "effect",
+    "part_of_speech": "n.",
+    "definition": "An effect is a change made by something else.",
+    "example": "The medicine had a good effect on the boy.",
+    "arabic_translation": "تأثير / مفعول",
+    "arabic_definition": "التأثير هو تغيير يحدث نتيجة لشيء آخر.",
+    "arabic_example": "كان للدواء مفعول جيد على الصبي.",
+    "extra_meanings": [
+      {
+        "meaning": "مؤثرات (بصرية أو صوتية)",
+        "example": "المؤثرات الخاصة في الفيلم كانت مذهلة."
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "essential",
+    "part_of_speech": "adj.",
+    "definition": "If something is essential, it is very important and necessary.",
+    "example": "It is essential to have oxygen when you scuba dive.",
+    "arabic_translation": "جوهري / أساسي / ضروري",
+    "arabic_definition": "إذا كان الشيء جوهرياً، فهو مهم جداً وضروري.",
+    "arabic_example": "من الضروري وجود الأكسجين عند الغوص.",
+    "extra_meanings": [
+      {
+        "meaning": "عطري (للزيوت)",
+        "example": "يستخدمون الزيوت العطرية للتدليك."
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "far",
+    "part_of_speech": "adj.",
+    "definition": "If something is far, it is not close.",
+    "example": "It’s far going from the east coast to the west coast of America.",
+    "arabic_translation": "بعيد",
+    "arabic_definition": "إذا كان الشيء بعيداً، فهو ليس قريباً.",
+    "arabic_example": "الطريق بعيد من الساحل الشرقي إلى الساحل الغربي لأمريكا.",
+    "extra_meanings": [
+      {
+        "meaning": "إلى حد كبير (للدرجة)",
+        "example": "هو أذكى منك بكثير."
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "focus",
+    "part_of_speech": "v.",
+    "definition": "To focus on something is to think about it and pay attention to it.",
+    "example": "My mom always helps me to focus on my school work.",
+    "arabic_translation": "يركز",
+    "arabic_definition": "التركيز على شيء ما هو التفكير فيه والانتباه إليه.",
+    "arabic_example": "أمي تساعدني دائماً للتركيز على عملي المدرسي.",
+    "extra_meanings": [
+      {
+        "meaning": "بؤرة (للضوء أو العدسة)",
+        "example": "اضبط بؤرة الكاميرا لتوضيح الصورة."
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "function",
+    "part_of_speech": "n.",
+    "definition": "The function of something is what it does.",
+    "example": "The function of a flashlight is to help you see in the dark.",
+    "arabic_translation": "وظيفة / مهمة",
+    "arabic_definition": "وظيفة الشيء هي العمل الذي يؤديه.",
+    "arabic_example": "وظيفة المصباح اليدوي هي مساعدتك على الرؤية في الظلام.",
+    "extra_meanings": [
+      {
+        "meaning": "يعمل / يشتغل (فعل)",
+        "example": "هذا الجهاز لا يعمل بشكل صحيح."
+      },
+      {
+        "meaning": "حفل / مناسبة",
+        "example": "حضرنا حفلاً خيرياً."
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "grass",
+    "part_of_speech": "n.",
+    "definition": "Grass is the green leaves that cover the ground.",
+    "example": "The grass looked so soft and green.",
+    "arabic_translation": "عشب / حشيش",
+    "arabic_definition": "العشب هو الأوراق الخضراء التي تغطي الأرض.",
+    "arabic_example": "بدا العشب ناعماً جداً وأخضر.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 10,
+    "word": "guard",
+    "part_of_speech": "v.",
+    "definition": "To guard something is to take care of it.",
+    "example": "The police officer will guard us from any harm.",
+    "arabic_translation": "يحرس / يحمي",
+    "arabic_definition": "حراسة شيء ما هي العناية به وحمايته.",
+    "arabic_example": "سيحرسنا ضابط الشرطة من أي أذى.",
+    "extra_meanings": [
+      {
+        "meaning": "حارس (اسم)",
+        "example": "وقف الحارس أمام البوابة."
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "image",
+    "part_of_speech": "n.",
+    "definition": "The image of something is a picture of it.",
+    "example": "The image of her eye was very clear.",
+    "arabic_translation": "صورة",
+    "arabic_definition": "صورة الشيء هي تمثيل مرئي له.",
+    "arabic_example": "كانت صورة عينها واضحة جداً.",
+    "extra_meanings": [
+      {
+        "meaning": "سمعة / انطباع",
+        "example": "تحاول الشركة تحسين صورتها العامة."
+      },
+      {
+        "meaning": "خيال / تشبيه",
+        "example": "استخدم الشاعر خيالاً جميلاً في القصيدة."
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "immediate",
+    "part_of_speech": "adj.",
+    "definition": "If something is immediate, it happens quickly.",
+    "example": "An immediate response came from the pizza place.",
+    "arabic_translation": "فوري / عاجل",
+    "arabic_definition": "إذا كان الشيء فورياً، فهو يحدث بسرعة.",
+    "arabic_example": "جاء رد فوري من محل البيتزا.",
+    "extra_meanings": [
+      {
+        "meaning": "مباشر (للأقارب)",
+        "example": "دعت فقط أقاربها المباشرين."
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "primary",
+    "part_of_speech": "adj.",
+    "definition": "If something is primary, it is the most important thing.",
+    "example": "His primary thoughts are about money.",
+    "arabic_translation": "رئيسي / أساسي",
+    "arabic_definition": "إذا كان الشيء رئيسياً، فهو الشيء الأكثر أهمية.",
+    "arabic_example": "أفكاره الرئيسية تتعلق بالمال.",
+    "extra_meanings": [
+      {
+        "meaning": "ابتدائي (مرحلة دراسية)",
+        "example": "التحق ابني بالمدرسة الابتدائية."
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "proud",
+    "part_of_speech": "adj.",
+    "definition": "If someone feels proud, they are happy about what they have done.",
+    "example": "She is proud of the picture she drew of her house.",
+    "arabic_translation": "فخور",
+    "arabic_definition": "إذا شعر شخص ما بالفخر، فهو سعيد وراضٍ عما فعله.",
+    "arabic_example": "هي فخورة بالصورة التي رسمتها لمنزلها.",
+    "extra_meanings": [
+      {
+        "meaning": "متكبر / مغرور (سياق سلبي)",
+        "example": "إنه شخص متكبر جداً ولا يتحدث للآخرين."
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "remain",
+    "part_of_speech": "v.",
+    "definition": "To remain somewhere is to stay there.",
+    "example": "My sister had to remain home since she was sick.",
+    "arabic_translation": "يبقى / يظل",
+    "arabic_definition": "البقاء في مكان ما هو المكوث فيه.",
+    "arabic_example": "اضطرت أختي للبقاء في المنزل لأنها كانت مريضة.",
+    "extra_meanings": [
+      {
+        "meaning": "يتبقى (كمية)",
+        "example": "لم يتبق سوى القليل من الطعام."
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "rest",
+    "part_of_speech": "v.",
+    "definition": "To rest is to stop being active while the body gets back its strength.",
+    "example": "I rested on the couch after work.",
+    "arabic_translation": "يستريح / يرتاح",
+    "arabic_definition": "الاستراحة هي التوقف عن النشاط بينما يستعيد الجسم قوته.",
+    "arabic_example": "استرحت على الأريكة بعد العمل.",
+    "extra_meanings": [
+      {
+        "meaning": "البقية (اسم)",
+        "example": "سأكمل بقية العمل غداً."
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "separate",
+    "part_of_speech": "adj.",
+    "definition": "If two things are separate, they are not together.",
+    "example": "New York and Los Angeles are in two separate parts of America.",
+    "arabic_translation": "منفصل",
+    "arabic_definition": "إذا كان شيئان منفصلين، فهما ليسا معاً.",
+    "arabic_example": "نيويورك ولوس أنجلوس تقعان في جزأين منفصلين من أمريكا.",
+    "extra_meanings": [
+      {
+        "meaning": "يفصل (فعل)",
+        "example": "قام بفصل الطالبين المتشاجرين."
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "site",
+    "part_of_speech": "n.",
+    "definition": "A site is a place.",
+    "example": "We found the perfect site for our picnic.",
+    "arabic_translation": "موقع / مكان",
+    "arabic_definition": "الموقع هو مكان محدد لغرض ما.",
+    "arabic_example": "وجدنا الموقع المثالي لنزهتنا.",
+    "extra_meanings": [
+      {
+        "meaning": "موقع إلكتروني",
+        "example": "زر موقعنا الإلكتروني للمزيد من المعلومات."
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "tail",
+    "part_of_speech": "n.",
+    "definition": "A tail is a part of an animal’s body, sticking out from its rear or back.",
+    "example": "Our dog wags its tail when it’s happy.",
+    "arabic_translation": "ذيل",
+    "arabic_definition": "الذيل هو جزء من جسم الحيوان، يبرز من خلفه.",
+    "arabic_example": "يهز كلبنا ذيله عندما يكون سعيداً.",
+    "extra_meanings": [
+      {
+        "meaning": "يراقب / يتعقب (فعل)",
+        "example": "الشرطة تتعقب المشتبه به."
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "trouble",
+    "part_of_speech": "n.",
+    "definition": "Trouble is a problem or a difficulty.",
+    "example": "I have trouble working with my boss.",
+    "arabic_translation": "مشكلة / عناء",
+    "arabic_definition": "المشكلة هي صعوبة أو مأزق.",
+    "arabic_example": "أواجه صعوبة في العمل مع مديري.",
+    "extra_meanings": [
+      {
+        "meaning": "يُقلق / يزعج (فعل)",
+        "example": "لا أريد أن أزعجك بمشاكلي."
+      }
+    ]
+  }
+]

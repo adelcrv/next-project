@@ -1,0 +1,317 @@
+[
+  {
+    "unit": 3,
+    "word": "alien",
+    "part_of_speech": "n.",
+    "definition": "An alien is a creature from a different world.",
+    "example": "The alien came in peace.",
+    "arabic_translation": "كائن فضائي",
+    "arabic_definition": "الفضائي هو مخلوق من عالم مختلف.",
+    "arabic_example": "جاء الكائن الفضائي بسلام.",
+    "extra_meanings": [
+      {
+        "meaning": "غريب / أجنبي",
+        "example": "هذه العادات غريبة على ثقافتنا."
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "among",
+    "part_of_speech": "prep.",
+    "definition": "If you are among certain things, they are all around you.",
+    "example": "There was a red apple among the green ones.",
+    "arabic_translation": "بين / وسط",
+    "arabic_definition": "إذا كنت بين أشياء معينة، فهي تحيط بك من كل جانب.",
+    "arabic_example": "كانت هناك تفاحة حمراء وسط التفاح الأخضر.",
+    "extra_meanings": [
+      {
+        "meaning": "من بين (واحد من مجموعة)",
+        "example": "هو من بين أفضل الطلاب."
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "chart",
+    "part_of_speech": "n.",
+    "definition": "A chart is a list of information.",
+    "example": "We used a chart to see how we had improved.",
+    "arabic_translation": "مخطط / رسم بياني",
+    "arabic_definition": "المخطط هو قائمة من المعلومات.",
+    "arabic_example": "استخدمنا مخططاً لنرى كيف تحسنا.",
+    "extra_meanings": [
+      {
+        "meaning": "قائمة ترتيب (الأغاني)",
+        "example": "تصدرت أغنيتها القوائم الموسيقية."
+      },
+      {
+        "meaning": "خريطة ملاحية",
+        "example": "فحص القبطان المخطط البحري."
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "cloud",
+    "part_of_speech": "n.",
+    "definition": "A cloud is a group of water drops in the sky.",
+    "example": "The sky was filled with white clouds.",
+    "arabic_translation": "سحابة / غيمة",
+    "arabic_definition": "السحابة هي مجموعة من قطرات الماء في السماء.",
+    "arabic_example": "كانت السماء مليئة بالغيوم البيضاء.",
+    "extra_meanings": [
+      {
+        "meaning": "غمامة (شيء يعكر الصفو)",
+        "example": "خيمت سحابة من الشك على المكان."
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "comprehend",
+    "part_of_speech": "v.",
+    "definition": "To comprehend something is to understand it.",
+    "example": "Henry could not comprehend the message.",
+    "arabic_translation": "يفهم / يستوعب",
+    "arabic_definition": "استيعاب شيء ما يعني فهمه.",
+    "arabic_example": "لم يستطع هنري استيعاب الرسالة.",
+    "extra_meanings": [
+      {
+        "meaning": "يشمل",
+        "example": "هذه الدراسة تشمل عدة جوانب."
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "describe",
+    "part_of_speech": "v.",
+    "definition": "To describe is to say or write what someone or something is like.",
+    "example": "They described their tree as colorful with gold ribbon and a star.",
+    "arabic_translation": "يصف",
+    "arabic_definition": "الوصف هو قول أو كتابة ما يبدو عليه شخص أو شيء ما.",
+    "arabic_example": "وصفوا شجرتهم بأنها ملونة بشريط ذهبي ونجمة.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 3,
+    "word": "ever",
+    "part_of_speech": "adv.",
+    "definition": "Ever means at any time.",
+    "example": "Going skiing last winter was the most fun I’ve ever had.",
+    "arabic_translation": "أبداً / في أي وقت (سبق)",
+    "arabic_definition": "\"Ever\" تعني في أي وقت.",
+    "arabic_example": "كان التزلج في الشتاء الماضي أكثر متعة حظيت بها على الإطلاق.",
+    "extra_meanings": [
+      {
+        "meaning": "دائماً (في سياقات أدبية)",
+        "example": "سأبقى مخلصاً لك دوماً."
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "fail",
+    "part_of_speech": "v.",
+    "definition": "To fail means you do not succeed in what you try to do.",
+    "example": "Since he failed to get the job, he was sad.",
+    "arabic_translation": "يفشل / يخفق",
+    "arabic_definition": "الفشل يعني أنك لا تنجح فيما تحاول القيام به.",
+    "arabic_example": "بما أنه فشل في الحصول على الوظيفة، كان حزيناً.",
+    "extra_meanings": [
+      {
+        "meaning": "يرسب (في امتحان)",
+        "example": "رسب في اختبار الرياضيات."
+      },
+      {
+        "meaning": "يتعطل (آلة)",
+        "example": "تعطلت الفرامل فجأة."
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "friendly",
+    "part_of_speech": "adj.",
+    "definition": "Friendly is behaving in a pleasant, kind way toward someone.",
+    "example": "The friendly animals came up to the girl.",
+    "arabic_translation": "ودود / أليف",
+    "arabic_definition": "الودود هو التصرف بطريقة لطيفة وطيبة تجاه شخص ما.",
+    "arabic_example": "اقتربت الحيوانات الأليفة من الفتاة.",
+    "extra_meanings": [
+      {
+        "meaning": "ودي (مباراة)",
+        "example": "لعبوا مباراة ودية."
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "grade",
+    "part_of_speech": "n.",
+    "definition": "A grade is a score or mark given to someone’s work.",
+    "example": "I managed to get good grades on my report card.",
+    "arabic_translation": "درجة / علامة",
+    "arabic_definition": "الدرجة هي نتيجة أو علامة تُعطى لعمل شخص ما.",
+    "arabic_example": "تمكنت من الحصول على درجات جيدة في شهادتي المدرسية.",
+    "extra_meanings": [
+      {
+        "meaning": "صف دراسي",
+        "example": "أخي في الصف الخامس."
+      },
+      {
+        "meaning": "رتبة / نوعية",
+        "example": "هذا اللحم من نوعية ممتازة."
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "instead",
+    "part_of_speech": "adv.",
+    "definition": "Instead means in place of.",
+    "example": "He ate the carrot instead of the ice cream.",
+    "arabic_translation": "بدلاً من ذلك / عوضاً عن",
+    "arabic_definition": "تعني في مكان شيء آخر.",
+    "arabic_example": "أكل الجزرة بدلاً من الآيس كريم.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 3,
+    "word": "library",
+    "part_of_speech": "n.",
+    "definition": "A library is a place where you go to read books.",
+    "example": "The library at school is full of books.",
+    "arabic_translation": "مكتبة (للمطالعة والاستعارة)",
+    "arabic_definition": "المكتبة هي مكان تذهب إليه لقراءة الكتب.",
+    "arabic_example": "مكتبة المدرسة مليئة بالكتب.",
+    "extra_meanings": [
+      {
+        "meaning": "مجموعة كتب خاصة",
+        "example": "لديه مكتبة كبيرة في منزله."
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "planet",
+    "part_of_speech": "n.",
+    "definition": "A planet is a large round thing in space.",
+    "example": "Saturn is the planet with the ring around it.",
+    "arabic_translation": "كوكب",
+    "arabic_definition": "الكوكب هو جسم دائري كبير في الفضاء.",
+    "arabic_example": "زحل هو الكوكب الذي توجد حوله حلقة.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 3,
+    "word": "report",
+    "part_of_speech": "n.",
+    "definition": "A report is something students write for school.",
+    "example": "Karen had trouble writing her report.",
+    "arabic_translation": "تقرير",
+    "arabic_definition": "التقرير هو شيء يكتبه الطلاب للمدرسة.",
+    "arabic_example": "واجهت كارين مشكلة في كتابة تقريرها.",
+    "extra_meanings": [
+      {
+        "meaning": "بلاغ",
+        "example": "قدم بلاغاً للشرطة."
+      },
+      {
+        "meaning": "يبلغ / يقرر (فعل)",
+        "example": "يجب أن تبلغ عن الحادث."
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "several",
+    "part_of_speech": "adj.",
+    "definition": "Several is more than two but not many.",
+    "example": "He had to read several books for class.",
+    "arabic_translation": "عدة / عديد",
+    "arabic_definition": "تعني أكثر من اثنين ولكن ليس كثيراً.",
+    "arabic_example": "كان عليه قراءة عدة كتب للصف.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 3,
+    "word": "solve",
+    "part_of_speech": "v.",
+    "definition": "To solve something is to find an answer to it.",
+    "example": "All the students could easily solve the math problem.",
+    "arabic_translation": "يحل",
+    "arabic_definition": "حل شيء ما هو إيجاد إجابة له.",
+    "arabic_example": "استطاع جميع الطلاب حل مسألة الرياضيات بسهولة.",
+    "extra_meanings": [
+      {
+        "meaning": "يفك (لغز)",
+        "example": "حاول المحقق فك لغز الجريمة."
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "suddenly",
+    "part_of_speech": "adv.",
+    "definition": "If something happens suddenly, it happens quickly and unexpectedly.",
+    "example": "I was suddenly surprised by the cake my friends brought me.",
+    "arabic_translation": "فجأة",
+    "arabic_definition": "إذا حدث شيء فجأة، فإنه يحدث بسرعة وبشكل غير متوقع.",
+    "arabic_example": "تفاجأت فجأة بالكعكة التي أحضرها لي أصدقائي.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 3,
+    "word": "suppose",
+    "part_of_speech": "v.",
+    "definition": "To suppose is to guess.",
+    "example": "I suppose I should go home now.",
+    "arabic_translation": "يفترض / يظن",
+    "arabic_definition": "أن تفترض يعني أن تخمن.",
+    "arabic_example": "أظن أنه يجب علي العودة إلى المنزل الآن.",
+    "extra_meanings": [
+      {
+        "meaning": "يفترض (نظرياً)",
+        "example": "لنفترض أنك فزت باليانصيب."
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "universe",
+    "part_of_speech": "n.",
+    "definition": "The universe is the known or supposed objects in space.",
+    "example": "The universe is so large that it cannot be measured.",
+    "arabic_translation": "الكون",
+    "arabic_definition": "الكون هو الأشياء المعروفة أو المفترضة في الفضاء.",
+    "arabic_example": "الكون كبير جداً لدرجة لا يمكن قياسه.",
+    "extra_meanings": [
+      {
+        "meaning": "عالم (مجال معين)",
+        "example": "عالم الأدب واسع جداً."
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "view",
+    "part_of_speech": "v.",
+    "definition": "To view is to look at something.",
+    "example": "Michael likes to view himself in the mirror.",
+    "arabic_translation": "ينظر إلى / يشاهد",
+    "arabic_definition": "المشاهدة هي النظر إلى شيء ما.",
+    "arabic_example": "يحب مايكل النظر إلى نفسه في المرآة.",
+    "extra_meanings": [
+      {
+        "meaning": "منظر (اسم)",
+        "example": "المنظر من النافذة جميل."
+      },
+      {
+        "meaning": "رأي (اسم)",
+        "example": "ما هو رأيك في هذا الموضوع؟"
+      }
+    ]
+  }
+]

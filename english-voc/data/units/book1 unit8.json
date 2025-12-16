@@ -1,0 +1,322 @@
+[
+  {
+    "unit": 8,
+    "word": "accept",
+    "part_of_speech": "v.",
+    "definition": "To accept something that is offered is to take it.",
+    "example": "I accepted the girl’s very nice gift.",
+    "arabic_translation": "يقبل",
+    "arabic_definition": "قبول شيء معروض هو أخذه.",
+    "arabic_example": "قبلتُ هدية الفتاة اللطيفة جداً.",
+    "extra_meanings": [
+      {
+        "meaning": "يوافق / يرضى بـ",
+        "example": "لن يقبلوا بأقل من السعر الكامل."
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "arrange",
+    "part_of_speech": "v.",
+    "definition": "To arrange things is to put them in the right place.",
+    "example": "Please arrange the bowling pins in order so we can play.",
+    "arabic_translation": "يرتب / ينظم",
+    "arabic_definition": "ترتيب الأشياء هو وضعها في المكان الصحيح.",
+    "arabic_example": "من فضلك رتب دبابيس البولينج بالترتيب حتى نتمكن من اللعب.",
+    "extra_meanings": [
+      {
+        "meaning": "يُدبّر / يخطط",
+        "example": "رتبنا للقاء الأسبوع القادم."
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "attend",
+    "part_of_speech": "v.",
+    "definition": "To attend something is to go to it.",
+    "example": "My sister and I attend the same school.",
+    "arabic_translation": "يحضر / يذهب إلى",
+    "arabic_definition": "حضور شيء ما هو الذهاب إليه.",
+    "arabic_example": "أنا وأختي نذهب إلى نفس المدرسة.",
+    "extra_meanings": [
+      {
+        "meaning": "يعتني بـ / يهتم بـ",
+        "example": "يجب أن أهتم بهذا العمل العاجل."
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "balance",
+    "part_of_speech": "v.",
+    "definition": "To balance something is to keep it from falling.",
+    "example": "We saw an elephant balance itself on a ball.",
+    "arabic_translation": "يوازن",
+    "arabic_definition": "موازنة شيء ما هي منعه من السقوط.",
+    "arabic_example": "رأينا فيلاً يوازن نفسه على كرة.",
+    "extra_meanings": [
+      {
+        "meaning": "رصيد (اسم)",
+        "example": "رصيد حسابي البنكي منخفض."
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "contrast",
+    "part_of_speech": "n.",
+    "definition": "A contrast is the sharp difference between two things.",
+    "example": "The contrast between my parents is very noticeable.",
+    "arabic_translation": "تباين / تضاد",
+    "arabic_definition": "التباين هو الاختلاف الحاد بين شيئين.",
+    "arabic_example": "التباين بين والديّ ملحوظ جداً.",
+    "extra_meanings": [
+      {
+        "meaning": "يقارن (فعل)",
+        "example": "قارن بين أسلوب الكاتبين."
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "encourage",
+    "part_of_speech": "v.",
+    "definition": "To encourage someone is to make them want to do something.",
+    "example": "My football coach will encourage us when we are losing.",
+    "arabic_translation": "يشجع",
+    "arabic_definition": "تشجيع شخص ما هو جعله يرغب في فعل شيء ما.",
+    "arabic_example": "سيشجعنا مدرب كرة القدم عندما نكون خاسرين.",
+    "extra_meanings": [
+      {
+        "meaning": "يدعم / يعزز",
+        "example": "هذا الدواء يعزز نمو الشعر."
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "familiar",
+    "part_of_speech": "adj.",
+    "definition": "If someone or something is familiar to you, you know them well.",
+    "example": "The two friends were very familiar with each other.",
+    "arabic_translation": "مألوف / معروف",
+    "arabic_definition": "إذا كان شخص أو شيء مألوفاً لك، فأنت تعرفه جيداً.",
+    "arabic_example": "كان الصديقان مألوفين جداً لبعضهما البعض (يعرفان بعضهما جيداً).",
+    "extra_meanings": [
+      {
+        "meaning": "ودي / غير متكلف",
+        "example": "تحدث بنبرة ودية."
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "grab",
+    "part_of_speech": "v.",
+    "definition": "To grab is to take a hold of someone or something suddenly.",
+    "example": "I grabbed a pear from the tree.",
+    "arabic_translation": "ينتزع / يمسك بسرعة",
+    "arabic_definition": "الانتزاع هو الإمساك بشخص أو شيء فجأة.",
+    "arabic_example": "انتزعتُ كمثرى من الشجرة.",
+    "extra_meanings": [
+      {
+        "meaning": "ينتهز (فرصة)",
+        "example": "يجب أن تنتهز هذه الفرصة."
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "hang",
+    "part_of_speech": "v.",
+    "definition": "To hang something is to keep it above the ground.",
+    "example": "I drew a picture of my family, and my mother hung it on the wall.",
+    "arabic_translation": "يعلق",
+    "arabic_definition": "تعليق شيء ما هو إبقاؤه فوق الأرض.",
+    "arabic_example": "رسمت صورة لعائلتي، وعلقتها أمي على الحائط.",
+    "extra_meanings": [
+      {
+        "meaning": "يشنق (عقوبة)",
+        "example": "حكم عليه بأن يشنق حتى الموت."
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "huge",
+    "part_of_speech": "adj.",
+    "definition": "If something is huge, it is very big.",
+    "example": "At work, my father drives a huge truck.",
+    "arabic_translation": "ضخم / هائل",
+    "arabic_definition": "إذا كان الشيء ضخماً، فهو كبير جداً.",
+    "arabic_example": "في العمل، يقود أبي شاحنة ضخمة.",
+    "extra_meanings": [
+      {
+        "meaning": "كبير (للنجاح أو الكمية)",
+        "example": "حقق الحفل نجاحاً هائلاً."
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "necessary",
+    "part_of_speech": "adj.",
+    "definition": "If something is necessary, you must do it.",
+    "example": "It is necessary to have a passport when you travel to a foreign country.",
+    "arabic_translation": "ضروري",
+    "arabic_definition": "إذا كان الشيء ضرورياً، فيجب عليك فعله.",
+    "arabic_example": "من الضروري أن يكون لديك جواز سفر عند السفر إلى بلد أجنبي.",
+    "extra_meanings": [
+      {
+        "meaning": "لا بد منه / حتمي",
+        "example": "التغيير أمر حتمي."
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "pattern",
+    "part_of_speech": "n.",
+    "definition": "A pattern is a way in which something is done or organized.",
+    "example": "My pattern of brushing my teeth is the same as most people’s.",
+    "arabic_translation": "نمط / أسلوب",
+    "arabic_definition": "النمط هو الطريقة التي يتم بها عمل أو تنظيم شيء ما.",
+    "arabic_example": "نمطي في تنظيف أسناني هو نفسه لدى معظم الناس.",
+    "extra_meanings": [
+      {
+        "meaning": "نقش / زخرفة",
+        "example": "أحب النقش الموجود على سجادتك."
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "propose",
+    "part_of_speech": "v.",
+    "definition": "To propose something is to say that it should be done.",
+    "example": "Santa Claus proposed that I try to be a good boy all year.",
+    "arabic_translation": "يقترح",
+    "arabic_definition": "اقتراح شيء ما هو القول بأنه يجب القيام به.",
+    "arabic_example": "اقترح سانتا كلوز أن أحاول أن أكون ولداً مطيعاً طوال العام.",
+    "extra_meanings": [
+      {
+        "meaning": "يطلب الزواج",
+        "example": "طلب يدها للزواج الليلة الماضية."
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "purpose",
+    "part_of_speech": "n.",
+    "definition": "A purpose is the reason that you do something.",
+    "example": "The purpose of exercising is to get into shape.",
+    "arabic_translation": "غرض / هدف",
+    "arabic_definition": "الغرض هو السبب الذي من أجله تفعل شيئاً ما.",
+    "arabic_example": "الغرض من ممارسة الرياضة هو الحصول على جسم رشيق.",
+    "extra_meanings": [
+      {
+        "meaning": "عزم / إصرار",
+        "example": "إنه رجل ذو عزم قوي."
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "release",
+    "part_of_speech": "v.",
+    "definition": "To release something is to stop holding it.",
+    "example": "She released the bird from her hands.",
+    "arabic_translation": "يطلق سراح / يحرر",
+    "arabic_definition": "تحرير شيء ما هو التوقف عن الإمساك به.",
+    "arabic_example": "أطلقت سراح الطائر من يديها.",
+    "extra_meanings": [
+      {
+        "meaning": "يُصدر (فيلماً أو منتجاً)",
+        "example": "سيصدرون الفيلم الجديد قريباً."
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "require",
+    "part_of_speech": "v.",
+    "definition": "To require something is to say that it is necessary.",
+    "example": "We require teachers to have a university degree.",
+    "arabic_translation": "يتطلب / يستلزم",
+    "arabic_definition": "تطلب شيء ما هو القول بأنه ضروري.",
+    "arabic_example": "نحن نتطلب من المعلمين أن يكون لديهم شهادة جامعية.",
+    "extra_meanings": [
+      {
+        "meaning": "يحتاج",
+        "example": "النباتات تحتاج إلى ضوء الشمس."
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "single",
+    "part_of_speech": "adj.",
+    "definition": "If something is single, then there is only one.",
+    "example": "I have a single key in my hand.",
+    "arabic_translation": "واحد / مفرد",
+    "arabic_definition": "إذا كان الشيء مفرداً، فهذا يعني وجود واحد فقط.",
+    "arabic_example": "لدي مفتاح واحد في يدي.",
+    "extra_meanings": [
+      {
+        "meaning": "أعزب (غير متزوج)",
+        "example": "هل أنت متزوج أم أعزب؟"
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "success",
+    "part_of_speech": "n.",
+    "definition": "Success is doing something well that you choose to do.",
+    "example": "My daughter was a big success at school.",
+    "arabic_translation": "نجاح",
+    "arabic_definition": "النجاح هو القيام بشيء اخترت القيام به بشكل جيد.",
+    "arabic_example": "حققت ابنتي نجاحاً كبيراً في المدرسة.",
+    "extra_meanings": [
+      {
+        "meaning": "شخص ناجح / عمل ناجح",
+        "example": "الحفلة كانت ناجحة جداً."
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "tear",
+    "part_of_speech": "v.",
+    "definition": "To tear something means to pull it apart.",
+    "example": "It is easy to tear paper.",
+    "arabic_translation": "يمزق",
+    "arabic_definition": "تمزيق شيء ما يعني سحبه لقطعه.",
+    "arabic_example": "من السهل تمزيق الورق.",
+    "extra_meanings": [
+      {
+        "meaning": "دمعة (اسم - يُنطق tier)",
+        "example": "سقطت دمعة من عينها."
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "theory",
+    "part_of_speech": "n.",
+    "definition": "A theory is an idea about how something works.",
+    "example": "We talked about Einstein’s theory of relativity in class.",
+    "arabic_translation": "نظرية",
+    "arabic_definition": "النظرية هي فكرة حول كيفية عمل شيء ما.",
+    "arabic_example": "تحدثنا عن نظرية النسبية لأينشتاين في الصف.",
+    "extra_meanings": [
+      {
+        "meaning": "فرضية / رأي",
+        "example": "لدي نظرية حول سبب تأخره."
+      }
+    ]
+  }
+]

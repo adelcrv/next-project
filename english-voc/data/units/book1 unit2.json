@@ -1,0 +1,333 @@
+[
+  {
+    "unit": 2,
+    "word": "adventure",
+    "part_of_speech": "n.",
+    "definition": "An adventure is a fun or exciting thing that you do.",
+    "example": "Riding in the rough water was an adventure.",
+    "arabic_translation": "مغامرة",
+    "arabic_definition": "المغامرة هي شيء ممتع أو مثير تقوم به.",
+    "arabic_example": "كان ركوب المياه الهائجة مغامرة.",
+    "extra_meanings": [
+      {
+        "meaning": "تجربة مثيرة",
+        "example": "كانت رحلتنا إلى الجبال تجربة مثيرة."
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "approach",
+    "part_of_speech": "v.",
+    "definition": "To approach something means to move close to it.",
+    "example": "The boy approached his school.",
+    "arabic_translation": "يقترب من",
+    "arabic_definition": "الاقتراب من شيء ما يعني التحرك بالقرب منه.",
+    "arabic_example": "اقترب الصبي من مدرسته.",
+    "extra_meanings": [
+      {
+        "meaning": "نهج / أسلوب (اسم)",
+        "example": "لديه نهج جديد في حل المشكلات."
+      },
+      {
+        "meaning": "يفاتح (شخصاً في موضوع)",
+        "example": "فاتحت مديري بخصوص زيادة الراتب."
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "carefully",
+    "part_of_speech": "adv.",
+    "definition": "Carefully means with great attention, especially to detail or safety.",
+    "example": "The baby carefully climbed down the stairs.",
+    "arabic_translation": "بحذر / بعناية",
+    "arabic_definition": "بعناية تعني باهتمام كبير، خاصة بالتفاصيل أو السلامة.",
+    "arabic_example": "نزل الطفل الدرج بحذر.",
+    "extra_meanings": [
+      {
+        "meaning": "بدقة",
+        "example": "استمع إلى التعليمات بدقة."
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "chemical",
+    "part_of_speech": "n.",
+    "definition": "A chemical is something that scientists use in chemistry.",
+    "example": "The scientist mixed the chemicals.",
+    "arabic_translation": "مادة كيميائية",
+    "arabic_definition": "المادة الكيميائية هي شيء يستخدمه العلماء في الكيمياء.",
+    "arabic_example": "قام العالم بخلط المواد الكيميائية.",
+    "extra_meanings": [
+      {
+        "meaning": "كيميائي (صفة)",
+        "example": "حدث تفاعل كيميائي."
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "create",
+    "part_of_speech": "v.",
+    "definition": "To create means to make something new.",
+    "example": "She created an igloo from blocks of snow.",
+    "arabic_translation": "ينشئ / يخلق / يصنع",
+    "arabic_definition": "أن تنشئ يعني أن تصنع شيئاً جديداً.",
+    "arabic_example": "صنعت كوخاً جليدياً من كتل الثلج.",
+    "extra_meanings": [
+      {
+        "meaning": "يسبب (مشكلة)",
+        "example": "تصرفه تسبب في فوضى."
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "evil",
+    "part_of_speech": "adj.",
+    "definition": "Evil describes something or someone bad or cruel, not good.",
+    "example": "The evil figure scared us all.",
+    "arabic_translation": "شرير",
+    "arabic_definition": "تصف كلمة شرير شيئاً أو شخصاً سيئاً أو قاسياً، وليس جيداً.",
+    "arabic_example": "الشخصية الشريرة أخافت الجميع.",
+    "extra_meanings": [
+      {
+        "meaning": "شر (اسم)",
+        "example": "يجب أن نحارب الشر."
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "experiment",
+    "part_of_speech": "n.",
+    "definition": "An experiment is a test that you do to see what will happen.",
+    "example": "The student did an experiment in science class.",
+    "arabic_translation": "تجربة (علمية)",
+    "arabic_definition": "التجربة هي اختبار تقوم به لترى ما سيحدث.",
+    "arabic_example": "أجرى الطالب تجربة في حصة العلوم.",
+    "extra_meanings": [
+      {
+        "meaning": "يجرب (فعل)",
+        "example": "هم يجربون دواءً جديداً."
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "kill",
+    "part_of_speech": "v.",
+    "definition": "To kill someone or something is to make them die.",
+    "example": "I killed the fly with a fly swatter.",
+    "arabic_translation": "يقتل",
+    "arabic_definition": "قتل شخص أو شيء ما هو التسبب في موته.",
+    "arabic_example": "قتلت الذبابة بمضرب الذباب.",
+    "extra_meanings": [
+      {
+        "meaning": "يقضي على (الوقت)",
+        "example": "لعبنا الورق لنقضي على الوقت."
+      },
+      {
+        "meaning": "يوقف (محرك أو ضوء)",
+        "example": "أوقف المحرك."
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "laboratory",
+    "part_of_speech": "n.",
+    "definition": "A laboratory is a room where a scientist works.",
+    "example": "My mother works in a laboratory.",
+    "arabic_translation": "مختبر / معمل",
+    "arabic_definition": "المختبر هو غرفة يعمل فيها العالم.",
+    "arabic_example": "تعمل أمي في مختبر.",
+    "extra_meanings": []
+  },
+  {
+    "unit": 2,
+    "word": "laugh",
+    "part_of_speech": "n.",
+    "definition": "Laugh is the sound made when someone is happy or a funny thing occurs",
+    "example": "The sound of their laugh filled the room.",
+    "arabic_translation": "ضحكة",
+    "arabic_definition": "الضحكة هي الصوت الذي يصدر عندما يكون الشخص سعيداً أو يحدث شيء مضحك.",
+    "arabic_example": "ملأ صوت ضحكاتهم الغرفة.",
+    "extra_meanings": [
+      {
+        "meaning": "يضحك (فعل)",
+        "example": "ضحكنا على النكتة."
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "loud",
+    "part_of_speech": "adj.",
+    "definition": "If a sound is loud, it is strong and very easy to hear.",
+    "example": "The man’s voice was so loud that we all could hear him.",
+    "arabic_translation": "عالٍ / صاخب",
+    "arabic_definition": "إذا كان الصوت عالياً، فهو قوي وسهل السمع جداً.",
+    "arabic_example": "كان صوت الرجل عالياً جداً لدرجة أننا جميعاً تمكنا من سماعه.",
+    "extra_meanings": [
+      {
+        "meaning": "صارخ (للألوان)",
+        "example": "كان يرتدي قميصاً بألوان صارخة."
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "nervous",
+    "part_of_speech": "adj.",
+    "definition": "When a person is nervous, they think something bad will happen.",
+    "example": "The boy became nervous when he heard the news.",
+    "arabic_translation": "متوتر / قلق",
+    "arabic_definition": "عندما يكون الشخص متوتراً، فإنه يعتقد أن شيئاً سيئاً سيحدث.",
+    "arabic_example": "أصبح الصبي متوتراً عندما سمع الأخبار.",
+    "extra_meanings": [
+      {
+        "meaning": "عصبي (جهاز عصبي)",
+        "example": "الجهاز العصبي يتحكم في الجسم."
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "noise",
+    "part_of_speech": "n.",
+    "definition": "A noise is an unpleasant sound.",
+    "example": "The crying baby made a loud noise.",
+    "arabic_translation": "ضجيج / ضوضاء",
+    "arabic_definition": "الضجيج هو صوت غير سار.",
+    "arabic_example": "أصدر الطفل الباكي ضجيجاً عالياً.",
+    "extra_meanings": [
+      {
+        "meaning": "صوت (بشكل عام)",
+        "example": "سمعت صوتاً غريباً في الخارج."
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "project",
+    "part_of_speech": "n.",
+    "definition": "A project is a type of work that you do for school or a job.",
+    "example": "His afternoon work project was to paint the room green.",
+    "arabic_translation": "مشروع",
+    "arabic_definition": "المشروع هو نوع من العمل تقوم به للمدرسة أو الوظيفة.",
+    "arabic_example": "كان مشروع عمله بعد الظهر هو طلاء الغرفة باللون الأخضر.",
+    "extra_meanings": [
+      {
+        "meaning": "يعرض (فيلم أو صورة)",
+        "example": "قاموا بعرض الفيلم على الحائط."
+      },
+      {
+        "meaning": "يتوقع",
+        "example": "من المتوقع أن تزيد المبيعات."
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "scare",
+    "part_of_speech": "v.",
+    "definition": "To scare someone is to make them feel afraid.",
+    "example": "My uncle was scared by what he saw in the room.",
+    "arabic_translation": "يخيف / يرعب",
+    "arabic_definition": "إخافة شخص ما تعني جعله يشعر بالخوف.",
+    "arabic_example": "أصيب عمي بالرعب مما رآه في الغرفة.",
+    "extra_meanings": [
+      {
+        "meaning": "فزع / رعب (اسم)",
+        "example": "أعطيتني فزعاً كبيراً!"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "secret",
+    "part_of_speech": "n.",
+    "definition": "A secret is something that you do not tell other people.",
+    "example": "The two boys were sharing a secret.",
+    "arabic_translation": "سر",
+    "arabic_definition": "السر هو شيء لا تخبره للآخرين.",
+    "arabic_example": "كان الصبيان يتبادلان سراً.",
+    "extra_meanings": [
+      {
+        "meaning": "سري (صفة)",
+        "example": "هذه وثائق سرية."
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "shout",
+    "part_of_speech": "v.",
+    "definition": "To shout is to say something loudly.",
+    "example": "My boss shouted at me because I was late for work.",
+    "arabic_translation": "يصرخ / يصيح",
+    "arabic_definition": "الصراخ هو قول شيء ما بصوت عالٍ.",
+    "arabic_example": "صرخ مديري في وجهي لأنني تأخرت عن العمل.",
+    "extra_meanings": [
+      {
+        "meaning": "صيحة (اسم)",
+        "example": "أطلق صيحة الفرح."
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "smell",
+    "part_of_speech": "v.",
+    "definition": "To smell something means to use your nose to sense it.",
+    "example": "The two friends smelled the flower.",
+    "arabic_translation": "يشم",
+    "arabic_definition": "شم شيء ما يعني استخدام أنفك للإحساس به.",
+    "arabic_example": "شم الصديقان الزهرة.",
+    "extra_meanings": [
+      {
+        "meaning": "رائحة (اسم)",
+        "example": "رائحة المطر جميلة."
+      },
+      {
+        "meaning": "تفوح منه رائحة كريهة",
+        "example": "هذا الحليب تفوح منه رائحة كريهة."
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "terrible",
+    "part_of_speech": "adj.",
+    "definition": "If something is terrible, it is very bad.",
+    "example": "The way he treated his classmate was terrible.",
+    "arabic_translation": "فظيع / سيء جداً",
+    "arabic_definition": "إذا كان الشيء فظيعاً، فهو سيء للغاية.",
+    "arabic_example": "الطريقة التي عامل بها زميله كانت فظيعة.",
+    "extra_meanings": [
+      {
+        "meaning": "رهيب (شدة)",
+        "example": "لدي صداع رهيب."
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "worse",
+    "part_of_speech": "adj.",
+    "definition": "If something is worse, it is of poorer quality than another thing.",
+    "example": "Business was worse this month than last month.",
+    "arabic_translation": "أسوأ",
+    "arabic_definition": "إذا كان شيء ما أسوأ، فهو ذو جودة أقل من شيء آخر.",
+    "arabic_example": "كان العمل أسوأ هذا الشهر من الشهر الماضي.",
+    "extra_meanings": [
+      {
+        "meaning": "أكثر سوءاً (حال)",
+        "example": "أشعر أنني أسوأ حالاً اليوم."
+      }
+    ]
+  }
+]
