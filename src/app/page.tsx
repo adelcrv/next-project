@@ -13,9 +13,9 @@ export default function Home() {
   const [selectedBook, setSelectedBook] = useState(1);
   const [selectedUnit, setSelectedUnit] = useState(1);
 
-  // Available options (10 units per book)
+  // Available options (up to 30 units per book)
   const books = [1, 2, 3, 4];
-  const units = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+  const units = Array.from({ length: 30 }, (_, i) => i + 1);
 
   // Mock data for initial UI
   const progress = {
